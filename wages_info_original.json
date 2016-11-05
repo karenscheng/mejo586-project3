@@ -1,0 +1,4344 @@
+{
+"wages":[
+  {
+    "jobtitle": "Accountant",
+    "femaleRate": 30.58,
+    "femaleLongevity": 88.96,
+    "maleRate": 30.28,
+    "maleLongevity": 85.71,
+    "totalRate": 30.51,
+    "totalLongevity": 88.2,
+    "womenToMen": "101%"
+  },
+  {
+    "jobtitle": "Accountant,Prin",
+    "femaleRate": 38.75,
+    "femaleLongevity": 59.96,
+    "maleRate": 37.64,
+    "maleLongevity": 7,
+    "totalRate": 38.49,
+    "totalLongevity": 47.6,
+    "womenToMen": "102.95%"
+  },
+  {
+    "jobtitle": "Accountant,Sr",
+    "femaleRate": 34.48,
+    "femaleLongevity": 60.61,
+    "maleRate": 33.89,
+    "maleLongevity": 43.67,
+    "totalRate": 34.36,
+    "totalLongevity": 57.1,
+    "womenToMen": "101.75%"
+  },
+  {
+    "jobtitle": "Act Exec",
+    "femaleRate": 43.1,
+    "femaleLongevity": 146,
+    "maleRate": 42.02,
+    "maleLongevity": 106.29,
+    "totalRate": 42.42,
+    "totalLongevity": 120.73,
+    "womenToMen": "102.56%"
+  },
+  {
+    "jobtitle": "Actg Tech I-BU",
+    "femaleRate": 22.56,
+    "femaleLongevity": 81.8,
+    "maleRate": 22.56,
+    "maleLongevity": 35.5,
+    "totalRate": 22.56,
+    "totalLongevity": 74.08,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Actg Tech II",
+    "femaleRate": 23.98,
+    "femaleLongevity": 112.71,
+    "maleRate": 24.35,
+    "maleLongevity": 75,
+    "totalRate": 24.03,
+    "totalLongevity": 108,
+    "womenToMen": "98.49%"
+  },
+  {
+    "jobtitle": "Actg Tech II-BU",
+    "femaleRate": 24.19,
+    "femaleLongevity": 103.23,
+    "maleRate": 24.21,
+    "maleLongevity": 134.5,
+    "totalRate": 24.2,
+    "totalLongevity": 109.35,
+    "womenToMen": "99.95%"
+  },
+  {
+    "jobtitle": "Actg Tech III-BU",
+    "femaleRate": 26.69,
+    "femaleLongevity": 89.97,
+    "maleRate": 26.18,
+    "maleLongevity": 51.2,
+    "totalRate": 26.63,
+    "totalLongevity": 84.73,
+    "womenToMen": "101.96%"
+  },
+  {
+    "jobtitle": "Admin Spec I",
+    "femaleRate": 22.35,
+    "femaleLongevity": 129.4,
+    "maleRate": 21.76,
+    "maleLongevity": 46,
+    "totalRate": 22.28,
+    "totalLongevity": 119.59,
+    "womenToMen": "102.70%"
+  },
+  {
+    "jobtitle": "Admin Spec I-BU",
+    "femaleRate": 22.43,
+    "femaleLongevity": 121.04,
+    "maleRate": 22.43,
+    "maleLongevity": 91.17,
+    "totalRate": 22.43,
+    "totalLongevity": 117.06,
+    "womenToMen": "100.01%"
+  },
+  {
+    "jobtitle": "Admin Spec I-MC",
+    "femaleRate": 22.56,
+    "femaleLongevity": 145,
+    "maleRate": 22.56,
+    "maleLongevity": 123,
+    "totalRate": 22.56,
+    "totalLongevity": 141.53,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Admin Spec II",
+    "femaleRate": 24.32,
+    "femaleLongevity": 126.07,
+    "maleRate": 23.9,
+    "maleLongevity": 42.5,
+    "totalRate": 24.26,
+    "totalLongevity": 115.63,
+    "womenToMen": "101.73%"
+  },
+  {
+    "jobtitle": "Admin Spec II-BU",
+    "femaleRate": 24.25,
+    "femaleLongevity": 91.78,
+    "maleRate": 24.11,
+    "maleLongevity": 76.5,
+    "totalRate": 24.24,
+    "totalLongevity": 90.04,
+    "womenToMen": "100.61%"
+  },
+  {
+    "jobtitle": "Admin Spec II-MC",
+    "femaleRate": 24.35,
+    "femaleLongevity": 129.18,
+    "maleRate": 24.35,
+    "maleLongevity": 129,
+    "totalRate": 24.35,
+    "totalLongevity": 129.17,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Admin Spec III",
+    "femaleRate": 26.1,
+    "femaleLongevity": 78,
+    "maleRate": 26.26,
+    "maleLongevity": 94.5,
+    "totalRate": 26.12,
+    "totalLongevity": 80.36,
+    "womenToMen": "99.39%"
+  },
+  {
+    "jobtitle": "Admin Spec III-BU",
+    "femaleRate": 25.94,
+    "femaleLongevity": 64.9,
+    "maleRate": 25.93,
+    "maleLongevity": 53.67,
+    "totalRate": 25.94,
+    "totalLongevity": 63.88,
+    "womenToMen": "100.03%"
+  },
+  {
+    "jobtitle": "Admin Staff Anlyst",
+    "femaleRate": 35.59,
+    "femaleLongevity": 76.95,
+    "maleRate": 35,
+    "maleLongevity": 49,
+    "totalRate": 35.55,
+    "totalLongevity": 75,
+    "womenToMen": "101.69%"
+  },
+  {
+    "jobtitle": "Admin Staff Asst",
+    "femaleRate": 30.86,
+    "femaleLongevity": 65.8,
+    "maleRate": 30.48,
+    "maleLongevity": 72,
+    "totalRate": 30.82,
+    "totalLongevity": 66.6,
+    "womenToMen": "101.26%"
+  },
+  {
+    "jobtitle": "Admin Support Asst-BU",
+    "femaleRate": 20.3,
+    "femaleLongevity": 84.2,
+    "maleRate": 20.61,
+    "maleLongevity": 83,
+    "totalRate": 20.36,
+    "totalLongevity": 84,
+    "womenToMen": "98.52%"
+  },
+  {
+    "jobtitle": "Admin Support Supv-BU",
+    "femaleRate": 27.58,
+    "femaleLongevity": 73.5,
+    "maleRate": 27.78,
+    "maleLongevity": 141,
+    "totalRate": 27.61,
+    "totalLongevity": 84.75,
+    "womenToMen": "99.28%"
+  },
+  {
+    "jobtitle": "Admin Support Supv-MC",
+    "femaleRate": 27.78,
+    "femaleLongevity": 119.25,
+    "maleRate": 27.78,
+    "maleLongevity": 158,
+    "totalRate": 27.78,
+    "totalLongevity": 127,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Adms Employee",
+    "femaleRate": 17.11,
+    "femaleLongevity": 115.4,
+    "maleRate": 17.11,
+    "maleLongevity": 102.5,
+    "totalRate": 17.11,
+    "totalLongevity": 107.46,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Animal Contrl Ofcr I",
+    "femaleRate": 24.32,
+    "femaleLongevity": 55,
+    "maleRate": 24.08,
+    "maleLongevity": 55.5,
+    "totalRate": 24.13,
+    "totalLongevity": 55.4,
+    "womenToMen": "101.01%"
+  },
+  {
+    "jobtitle": "Animal Contrl Ofcr II",
+    "femaleRate": 26.53,
+    "femaleLongevity": 128.67,
+    "maleRate": 26.53,
+    "maleLongevity": 142.17,
+    "totalRate": 26.53,
+    "totalLongevity": 137.67,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Aquarium Biologist 1",
+    "femaleRate": 23.88,
+    "femaleLongevity": 53,
+    "maleRate": 23.88,
+    "maleLongevity": 76,
+    "totalRate": 23.88,
+    "totalLongevity": 60.67,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Aquarium Biologist 2",
+    "femaleRate": 26.26,
+    "femaleLongevity": 81.2,
+    "maleRate": 26.26,
+    "maleLongevity": 71.33,
+    "totalRate": 26.26,
+    "totalLongevity": 77.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Aquatic Cntr Coord",
+    "femaleRate": 32.52,
+    "femaleLongevity": 108.43,
+    "maleRate": 32.52,
+    "maleLongevity": 223,
+    "totalRate": 32.52,
+    "totalLongevity": 133.89,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Aquatic Cntr Coord,Asst",
+    "femaleRate": 28.75,
+    "femaleLongevity": 93.25,
+    "maleRate": 29.17,
+    "maleLongevity": 56,
+    "totalRate": 28.93,
+    "totalLongevity": 77.29,
+    "womenToMen": "98.56%"
+  },
+  {
+    "jobtitle": "Arboriculturist",
+    "femaleRate": 33.09,
+    "femaleLongevity": 67,
+    "maleRate": 32.9,
+    "maleLongevity": 80.86,
+    "totalRate": 32.92,
+    "totalLongevity": 79.13,
+    "womenToMen": "100.58%"
+  },
+  {
+    "jobtitle": "Arts Conserv Tech",
+    "femaleRate": 27.78,
+    "femaleLongevity": 65,
+    "maleRate": 27.78,
+    "maleLongevity": 65,
+    "totalRate": 27.78,
+    "totalLongevity": 65,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Arts Prgm Spec,Sr",
+    "femaleRate": 36.37,
+    "femaleLongevity": 76.75,
+    "maleRate": 36.3,
+    "maleLongevity": 18,
+    "totalRate": 36.36,
+    "totalLongevity": 65,
+    "womenToMen": "100.20%"
+  },
+  {
+    "jobtitle": "Auto Mechanic",
+    "femaleRate": 31.02,
+    "femaleLongevity": 138,
+    "maleRate": 31.02,
+    "maleLongevity": 108.17,
+    "totalRate": 31.02,
+    "totalLongevity": 108.78,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Auto Mechanic Aprn",
+    "femaleRate": 27.27,
+    "femaleLongevity": 46,
+    "maleRate": 27.27,
+    "maleLongevity": 45,
+    "totalRate": 27.27,
+    "totalLongevity": 45.33,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Auto Mechanic,Sr",
+    "femaleRate": 32.6,
+    "femaleLongevity": 28,
+    "maleRate": 32.6,
+    "maleLongevity": 90.62,
+    "totalRate": 32.6,
+    "totalLongevity": 86.14,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Bailiff",
+    "femaleRate": 25.77,
+    "femaleLongevity": 137.29,
+    "maleRate": 24.77,
+    "maleLongevity": 25,
+    "totalRate": 25.65,
+    "totalLongevity": 123.25,
+    "womenToMen": "104.04%"
+  },
+  {
+    "jobtitle": "Bldg Plans Examiner",
+    "femaleRate": 36.45,
+    "femaleLongevity": 3.5,
+    "maleRate": 35.38,
+    "maleLongevity": 20.5,
+    "totalRate": 35.74,
+    "totalLongevity": 14.83,
+    "womenToMen": "103.01%"
+  },
+  {
+    "jobtitle": "Bridge Op",
+    "femaleRate": 27.34,
+    "femaleLongevity": 385,
+    "maleRate": 27.26,
+    "maleLongevity": 165.83,
+    "totalRate": 27.27,
+    "totalLongevity": 182.69,
+    "womenToMen": "100.29%"
+  },
+  {
+    "jobtitle": "Bridge Op,Sr",
+    "femaleRate": 28.85,
+    "femaleLongevity": 67.5,
+    "maleRate": 28.85,
+    "maleLongevity": 126,
+    "totalRate": 28.85,
+    "totalLongevity": 96.75,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Buyer,Sr",
+    "femaleRate": 39.96,
+    "femaleLongevity": 51.33,
+    "maleRate": 38.86,
+    "maleLongevity": 73,
+    "totalRate": 39.33,
+    "totalLongevity": 63.71,
+    "womenToMen": "102.82%"
+  },
+  {
+    "jobtitle": "Capital Prjts Coord",
+    "femaleRate": 41.56,
+    "femaleLongevity": 48.33,
+    "maleRate": 41.04,
+    "maleLongevity": 70.44,
+    "totalRate": 41.17,
+    "totalLongevity": 64.92,
+    "womenToMen": "101.26%"
+  },
+  {
+    "jobtitle": "Capital Prjts Coord Supv",
+    "femaleRate": 42.51,
+    "femaleLongevity": 0,
+    "maleRate": 49.33,
+    "maleLongevity": 3,
+    "totalRate": 45.92,
+    "totalLongevity": 1.5,
+    "womenToMen": "86.17%"
+  },
+  {
+    "jobtitle": "Capital Prjts Coord Supv-BU",
+    "femaleRate": 49.33,
+    "femaleLongevity": 15,
+    "maleRate": 47.62,
+    "maleLongevity": 13,
+    "totalRate": 48.47,
+    "totalLongevity": 14,
+    "womenToMen": "103.59%"
+  },
+  {
+    "jobtitle": "Capital Prjts Coord,Sr",
+    "femaleRate": 46.98,
+    "femaleLongevity": 74.33,
+    "maleRate": 47.12,
+    "maleLongevity": 72.34,
+    "totalRate": 47.08,
+    "totalLongevity": 72.85,
+    "womenToMen": "99.71%"
+  },
+  {
+    "jobtitle": "Carpenter",
+    "femaleRate": 30.28,
+    "femaleLongevity": 276.5,
+    "maleRate": 30.28,
+    "maleLongevity": 138.28,
+    "totalRate": 30.28,
+    "totalLongevity": 163.41,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Carpenter,Sr",
+    "femaleRate": 31.57,
+    "femaleLongevity": 146,
+    "maleRate": 31.57,
+    "maleLongevity": 103.33,
+    "totalRate": 31.57,
+    "totalLongevity": 114,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Cashier",
+    "femaleRate": 16.62,
+    "femaleLongevity": 76.25,
+    "maleRate": 16.6,
+    "maleLongevity": 116.2,
+    "totalRate": 16.61,
+    "totalLongevity": 88,
+    "womenToMen": "100.12%"
+  },
+  {
+    "jobtitle": "Cashier,Sr",
+    "femaleRate": 19.38,
+    "femaleLongevity": 84,
+    "maleRate": 18.74,
+    "maleLongevity": 52,
+    "totalRate": 19.22,
+    "totalLongevity": 76,
+    "womenToMen": "103.42%"
+  },
+  {
+    "jobtitle": "Cblspl CC-Net Area",
+    "femaleRate": 46.28,
+    "femaleLongevity": 37,
+    "maleRate": 46.28,
+    "maleLongevity": 100.63,
+    "totalRate": 46.28,
+    "totalLongevity": 90.58,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Cblspl-Asg Locator",
+    "femaleRate": 41.14,
+    "femaleLongevity": 18,
+    "maleRate": 41.14,
+    "maleLongevity": 35.5,
+    "totalRate": 41.14,
+    "totalLongevity": 29.67,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Cblspl-Net Area",
+    "femaleRate": 41.14,
+    "femaleLongevity": 78.2,
+    "maleRate": 41.14,
+    "maleLongevity": 42.81,
+    "totalRate": 41.14,
+    "totalLongevity": 47.02,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "City Attorney,Asst",
+    "femaleRate": 49.2,
+    "femaleLongevity": 62.67,
+    "maleRate": 55.11,
+    "maleLongevity": 72.93,
+    "totalRate": 51.79,
+    "totalLongevity": 67.16,
+    "womenToMen": "89.27%"
+  },
+  {
+    "jobtitle": "City Attorney,Asst-BU",
+    "femaleRate": 36.72,
+    "femaleLongevity": 25.47,
+    "maleRate": 41.8,
+    "maleLongevity": 26.1,
+    "totalRate": 38.6,
+    "totalLongevity": 25.7,
+    "womenToMen": "87.83%"
+  },
+  {
+    "jobtitle": "City Records Mgmt Anlyst",
+    "femaleRate": 36.3,
+    "femaleLongevity": 42,
+    "maleRate": 32.39,
+    "maleLongevity": 8,
+    "totalRate": 34.35,
+    "totalLongevity": 25,
+    "womenToMen": "112.07%"
+  },
+  {
+    "jobtitle": "Civil Engr Supv",
+    "femaleRate": 54.51,
+    "femaleLongevity": 50.31,
+    "maleRate": 54.16,
+    "maleLongevity": 76.84,
+    "totalRate": 54.26,
+    "totalLongevity": 69,
+    "womenToMen": "100.64%"
+  },
+  {
+    "jobtitle": "Civil Engr,Assoc",
+    "femaleRate": 39.7,
+    "femaleLongevity": 94.86,
+    "maleRate": 39.91,
+    "maleLongevity": 81.64,
+    "totalRate": 39.84,
+    "totalLongevity": 86.05,
+    "womenToMen": "99.47%"
+  },
+  {
+    "jobtitle": "Civil Engr,Sr",
+    "femaleRate": 49.61,
+    "femaleLongevity": 75.65,
+    "maleRate": 50.2,
+    "maleLongevity": 87.55,
+    "totalRate": 50,
+    "totalLongevity": 83.49,
+    "womenToMen": "98.83%"
+  },
+  {
+    "jobtitle": "Civil Engrng Spec Supv",
+    "femaleRate": 45.51,
+    "femaleLongevity": 56.17,
+    "maleRate": 45.51,
+    "maleLongevity": 49.64,
+    "totalRate": 45.51,
+    "totalLongevity": 51.94,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Civil Engrng Spec,Assoc",
+    "femaleRate": 38.06,
+    "femaleLongevity": 94.68,
+    "maleRate": 38.06,
+    "maleLongevity": 80.84,
+    "totalRate": 38.06,
+    "totalLongevity": 85.45,
+    "womenToMen": "100.02%"
+  },
+  {
+    "jobtitle": "Civil Engrng Spec,Asst I",
+    "femaleRate": 29.41,
+    "femaleLongevity": 48.5,
+    "maleRate": 28.33,
+    "maleLongevity": 9.6,
+    "totalRate": 28.64,
+    "totalLongevity": 20.71,
+    "womenToMen": "103.80%"
+  },
+  {
+    "jobtitle": "Civil Engrng Spec,Asst II",
+    "femaleRate": 29.05,
+    "femaleLongevity": 8,
+    "maleRate": 31.34,
+    "maleLongevity": 60.29,
+    "totalRate": 31.05,
+    "totalLongevity": 53.75,
+    "womenToMen": "92.71%"
+  },
+  {
+    "jobtitle": "Civil Engrng Spec,Asst III",
+    "femaleRate": 34.91,
+    "femaleLongevity": 57.1,
+    "maleRate": 34.73,
+    "maleLongevity": 57.94,
+    "totalRate": 34.8,
+    "totalLongevity": 57.62,
+    "womenToMen": "100.52%"
+  },
+  {
+    "jobtitle": "Civil Engrng Spec,Sr",
+    "femaleRate": 43.08,
+    "femaleLongevity": 63,
+    "maleRate": 42.85,
+    "maleLongevity": 74.36,
+    "totalRate": 42.91,
+    "totalLongevity": 71.25,
+    "womenToMen": "100.53%"
+  },
+  {
+    "jobtitle": "Civil Rights Anlyst",
+    "femaleRate": 31.19,
+    "femaleLongevity": 20.75,
+    "maleRate": 33.56,
+    "maleLongevity": 78,
+    "totalRate": 31.67,
+    "totalLongevity": 32.2,
+    "womenToMen": "92.95%"
+  },
+  {
+    "jobtitle": "Civil Rights Anlyst,Sr",
+    "femaleRate": 36.3,
+    "femaleLongevity": 51,
+    "maleRate": 36.33,
+    "maleLongevity": 49,
+    "totalRate": 36.31,
+    "totalLongevity": 50.33,
+    "womenToMen": "99.92%"
+  },
+  {
+    "jobtitle": "Civil Svc Commissioner",
+    "femaleRate": 5.53,
+    "femaleLongevity": 4,
+    "maleRate": 5.53,
+    "maleLongevity": 62,
+    "totalRate": 5.53,
+    "totalLongevity": 52.33,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Claims Adjuster-FAS",
+    "femaleRate": 36.3,
+    "femaleLongevity": 12,
+    "maleRate": 40.74,
+    "maleLongevity": 68.5,
+    "totalRate": 39.26,
+    "totalLongevity": 49.67,
+    "womenToMen": "89.10%"
+  },
+  {
+    "jobtitle": "Com Dev Spec",
+    "femaleRate": 35.21,
+    "femaleLongevity": 60.33,
+    "maleRate": 36.3,
+    "maleLongevity": 91,
+    "totalRate": 35.49,
+    "totalLongevity": 68,
+    "womenToMen": "97.01%"
+  },
+  {
+    "jobtitle": "Com Dev Spec,Sr",
+    "femaleRate": 42.47,
+    "femaleLongevity": 74.8,
+    "maleRate": 43.1,
+    "maleLongevity": 93.67,
+    "totalRate": 42.71,
+    "totalLongevity": 81.88,
+    "womenToMen": "98.54%"
+  },
+  {
+    "jobtitle": "Com Garden Coord",
+    "femaleRate": 32.39,
+    "femaleLongevity": 98,
+    "maleRate": 32.39,
+    "maleLongevity": 143,
+    "totalRate": 32.39,
+    "totalLongevity": 105.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Complaint Investigator",
+    "femaleRate": 31.76,
+    "femaleLongevity": 74.67,
+    "maleRate": 31.76,
+    "maleLongevity": 93.5,
+    "totalRate": 31.76,
+    "totalLongevity": 82.2,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Constr&Maint Equip Op",
+    "femaleRate": 30.49,
+    "femaleLongevity": 228,
+    "maleRate": 30.49,
+    "maleLongevity": 133.5,
+    "totalRate": 30.49,
+    "totalLongevity": 137,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Constr&Maint Equip Op,Sr",
+    "femaleRate": 32.01,
+    "femaleLongevity": 140,
+    "maleRate": 32.01,
+    "maleLongevity": 61.63,
+    "totalRate": 32.01,
+    "totalLongevity": 65.55,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Contract Employee *",
+    "femaleRate": 45.96,
+    "femaleLongevity": 37.5,
+    "maleRate": 61.42,
+    "maleLongevity": 25,
+    "totalRate": 51.11,
+    "totalLongevity": 33.33,
+    "womenToMen": "74.82%"
+  },
+  {
+    "jobtitle": "Councilmember",
+    "femaleRate": 57.07,
+    "femaleLongevity": 79.67,
+    "maleRate": 56.88,
+    "maleLongevity": 108,
+    "totalRate": 56.94,
+    "totalLongevity": 98.56,
+    "womenToMen": "100.34%"
+  },
+  {
+    "jobtitle": "Counslr",
+    "femaleRate": 29.4,
+    "femaleLongevity": 66.65,
+    "maleRate": 30.39,
+    "maleLongevity": 105.07,
+    "totalRate": 29.55,
+    "totalLongevity": 72.37,
+    "womenToMen": "96.74%"
+  },
+  {
+    "jobtitle": "Court Cashier",
+    "femaleRate": 24.66,
+    "femaleLongevity": 96.14,
+    "maleRate": 24.55,
+    "maleLongevity": 134.6,
+    "totalRate": 24.62,
+    "totalLongevity": 112.17,
+    "womenToMen": "100.43%"
+  },
+  {
+    "jobtitle": "Court Cashier Supv",
+    "femaleRate": 27.04,
+    "femaleLongevity": 107,
+    "maleRate": 27.04,
+    "maleLongevity": 178,
+    "totalRate": 27.04,
+    "totalLongevity": 142.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Court Clerk",
+    "femaleRate": 25.04,
+    "femaleLongevity": 91.45,
+    "maleRate": 25.32,
+    "maleLongevity": 98,
+    "totalRate": 25.06,
+    "totalLongevity": 91.76,
+    "womenToMen": "98.91%"
+  },
+  {
+    "jobtitle": "Credit Rep",
+    "femaleRate": 28.83,
+    "femaleLongevity": 160.67,
+    "maleRate": 28.58,
+    "maleLongevity": 95.25,
+    "totalRate": 28.69,
+    "totalLongevity": 123.29,
+    "womenToMen": "100.88%"
+  },
+  {
+    "jobtitle": "Credit&Colls Supv-BU",
+    "femaleRate": 36.3,
+    "femaleLongevity": 180,
+    "maleRate": 36.3,
+    "maleLongevity": 89,
+    "totalRate": 36.3,
+    "totalLongevity": 134.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Crime Prev Coord",
+    "femaleRate": 33.69,
+    "femaleLongevity": 268,
+    "maleRate": 33.69,
+    "maleLongevity": 249.67,
+    "totalRate": 33.69,
+    "totalLongevity": 254.25,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Cust Svc Rep",
+    "femaleRate": 24.21,
+    "femaleLongevity": 68.79,
+    "maleRate": 24.32,
+    "maleLongevity": 67.38,
+    "totalRate": 24.23,
+    "totalLongevity": 68.52,
+    "womenToMen": "99.54%"
+  },
+  {
+    "jobtitle": "Cust Svc Rep Supv",
+    "femaleRate": 30.35,
+    "femaleLongevity": 72,
+    "maleRate": 30.35,
+    "maleLongevity": 98,
+    "totalRate": 30.35,
+    "totalLongevity": 85,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Delivery Wkr",
+    "femaleRate": 21.36,
+    "femaleLongevity": 55,
+    "maleRate": 21.36,
+    "maleLongevity": 90,
+    "totalRate": 21.36,
+    "totalLongevity": 76,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Dining Room Attendant",
+    "femaleRate": 15.66,
+    "femaleLongevity": 55.5,
+    "maleRate": 14.8,
+    "maleLongevity": 9,
+    "totalRate": 15.37,
+    "totalLongevity": 40,
+    "womenToMen": "105.81%"
+  },
+  {
+    "jobtitle": "Disposal CC I",
+    "femaleRate": 33.93,
+    "femaleLongevity": 74,
+    "maleRate": 33.93,
+    "maleLongevity": 80,
+    "totalRate": 33.93,
+    "totalLongevity": 77,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Drainage&Wstwtr Coll CC",
+    "femaleRate": 36.72,
+    "femaleLongevity": 58.5,
+    "maleRate": 36.72,
+    "maleLongevity": 67,
+    "totalRate": 36.72,
+    "totalLongevity": 65.45,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Drainage&Wstwtr Coll Wkr",
+    "femaleRate": 27.56,
+    "femaleLongevity": 39,
+    "maleRate": 27.42,
+    "maleLongevity": 86.53,
+    "totalRate": 27.44,
+    "totalLongevity": 80.94,
+    "womenToMen": "100.50%"
+  },
+  {
+    "jobtitle": "Drainage&Wstwtr Coll Wkr Aprn",
+    "femaleRate": 23.98,
+    "femaleLongevity": 11,
+    "maleRate": 23.92,
+    "maleLongevity": 11,
+    "totalRate": 23.94,
+    "totalLongevity": 11,
+    "womenToMen": "100.23%"
+  },
+  {
+    "jobtitle": "Drainage&Wstwtr Coll Wkr CI",
+    "femaleRate": 28.09,
+    "femaleLongevity": 38.25,
+    "maleRate": 28.09,
+    "maleLongevity": 60,
+    "totalRate": 28.09,
+    "totalLongevity": 55.42,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Drainage&Wstwtr Lead Wkr CII",
+    "femaleRate": 29.81,
+    "femaleLongevity": 7.5,
+    "maleRate": 31.31,
+    "maleLongevity": 51.58,
+    "totalRate": 31.2,
+    "totalLongevity": 48.43,
+    "womenToMen": "95.20%"
+  },
+  {
+    "jobtitle": "Early Ed Spec",
+    "femaleRate": 33.89,
+    "femaleLongevity": 54.5,
+    "maleRate": 34.32,
+    "maleLongevity": 59,
+    "totalRate": 33.95,
+    "totalLongevity": 55.14,
+    "womenToMen": "98.76%"
+  },
+  {
+    "jobtitle": "Economist",
+    "femaleRate": 34.32,
+    "femaleLongevity": 5,
+    "maleRate": 35.66,
+    "maleLongevity": 13.5,
+    "totalRate": 35.21,
+    "totalLongevity": 10.67,
+    "womenToMen": "96.26%"
+  },
+  {
+    "jobtitle": "Economist,Prin",
+    "femaleRate": 47.26,
+    "femaleLongevity": 28,
+    "maleRate": 47.26,
+    "maleLongevity": 55.67,
+    "totalRate": 47.26,
+    "totalLongevity": 48.75,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Economist,Sr",
+    "femaleRate": 44.28,
+    "femaleLongevity": 96.57,
+    "maleRate": 43.14,
+    "maleLongevity": 44.5,
+    "totalRate": 44.03,
+    "totalLongevity": 85,
+    "womenToMen": "102.64%"
+  },
+  {
+    "jobtitle": "Elctn",
+    "femaleRate": 36.25,
+    "femaleLongevity": 94,
+    "maleRate": 36.08,
+    "maleLongevity": 98.5,
+    "totalRate": 36.09,
+    "totalLongevity": 98,
+    "womenToMen": "100.49%"
+  },
+  {
+    "jobtitle": "Elctn-Con",
+    "femaleRate": 41.14,
+    "femaleLongevity": 119,
+    "maleRate": 41.14,
+    "maleLongevity": 75.2,
+    "totalRate": 41.14,
+    "totalLongevity": 79.25,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Elctn-Con-(OI)",
+    "femaleRate": 41.14,
+    "femaleLongevity": 139,
+    "maleRate": 41.14,
+    "maleLongevity": 201.5,
+    "totalRate": 41.14,
+    "totalLongevity": 180.67,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Elctn-Con-Wkg CC",
+    "femaleRate": 46.28,
+    "femaleLongevity": 24.5,
+    "maleRate": 46.28,
+    "maleLongevity": 109.18,
+    "totalRate": 46.28,
+    "totalLongevity": 96.15,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Elec-Con(OI)Wkg CC-C Coord",
+    "femaleRate": 46.28,
+    "femaleLongevity": 126,
+    "maleRate": 46.28,
+    "maleLongevity": 18,
+    "totalRate": 46.28,
+    "totalLongevity": 72,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Elecl Constr&Maint Supv-BU",
+    "femaleRate": 55.04,
+    "femaleLongevity": 65,
+    "maleRate": 54.85,
+    "maleLongevity": 55.82,
+    "totalRate": 54.89,
+    "totalLongevity": 57.79,
+    "womenToMen": "100.34%"
+  },
+  {
+    "jobtitle": "Elecl Engr,Assoc",
+    "femaleRate": 39.36,
+    "femaleLongevity": 51.2,
+    "maleRate": 39.05,
+    "maleLongevity": 44.42,
+    "totalRate": 39.12,
+    "totalLongevity": 45.83,
+    "womenToMen": "100.79%"
+  },
+  {
+    "jobtitle": "Elecl Engr,Asst I",
+    "femaleRate": 30.85,
+    "femaleLongevity": 47,
+    "maleRate": 29.95,
+    "maleLongevity": 33.89,
+    "totalRate": 30.11,
+    "totalLongevity": 36.27,
+    "womenToMen": "103%"
+  },
+  {
+    "jobtitle": "Elecl Engr,Sr",
+    "femaleRate": 50.69,
+    "femaleLongevity": 120,
+    "maleRate": 50.69,
+    "maleLongevity": 140,
+    "totalRate": 50.69,
+    "totalLongevity": 130,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Elecl Engrng Spec Supv",
+    "femaleRate": 44.41,
+    "femaleLongevity": 51.33,
+    "maleRate": 45.51,
+    "maleLongevity": 21.5,
+    "totalRate": 44.85,
+    "totalLongevity": 39.4,
+    "womenToMen": "97.58%"
+  },
+  {
+    "jobtitle": "Elecl Engrng Spec,Assoc",
+    "femaleRate": 37.12,
+    "femaleLongevity": 37,
+    "maleRate": 37.52,
+    "maleLongevity": 59.75,
+    "totalRate": 37.27,
+    "totalLongevity": 45.27,
+    "womenToMen": "98.93%"
+  },
+  {
+    "jobtitle": "Elecl Engrng Spec,Asst I",
+    "femaleRate": 29.05,
+    "femaleLongevity": 87.5,
+    "maleRate": 27.52,
+    "maleLongevity": 9,
+    "totalRate": 28.29,
+    "totalLongevity": 48.25,
+    "womenToMen": "105.56%"
+  },
+  {
+    "jobtitle": "Elecl Engrng Spec,Sr",
+    "femaleRate": 42.85,
+    "femaleLongevity": 46.6,
+    "maleRate": 43.08,
+    "maleLongevity": 47.69,
+    "totalRate": 43.03,
+    "totalLongevity": 47.43,
+    "womenToMen": "99.46%"
+  },
+  {
+    "jobtitle": "Elecl Inspector,(J)",
+    "femaleRate": 38.37,
+    "femaleLongevity": 9,
+    "maleRate": 38.37,
+    "maleLongevity": 9.5,
+    "totalRate": 38.37,
+    "totalLongevity": 9.33,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Elecl Inspector,Sr(Expert)",
+    "femaleRate": 43.06,
+    "femaleLongevity": 63,
+    "maleRate": 43.06,
+    "maleLongevity": 114.62,
+    "totalRate": 43.06,
+    "totalLongevity": 107.73,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Elecl Pwr Systs Engr",
+    "femaleRate": 51.93,
+    "femaleLongevity": 54.17,
+    "maleRate": 51.4,
+    "maleLongevity": 40.93,
+    "totalRate": 51.55,
+    "totalLongevity": 44.71,
+    "womenToMen": "101.03%"
+  },
+  {
+    "jobtitle": "Elecl Pwr Systs Engr,Prin",
+    "femaleRate": 54.42,
+    "femaleLongevity": 17.5,
+    "maleRate": 55.22,
+    "maleLongevity": 23,
+    "totalRate": 55,
+    "totalLongevity": 21.53,
+    "womenToMen": "98.55%"
+  },
+  {
+    "jobtitle": "Elecl PwrSystsEngr-Mrt",
+    "femaleRate": 55.08,
+    "femaleLongevity": 9,
+    "maleRate": 55.08,
+    "maleLongevity": 25.5,
+    "totalRate": 55.08,
+    "totalLongevity": 20,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Elecl PwrSystsEngr,Prin-Mrt",
+    "femaleRate": 60.11,
+    "femaleLongevity": 37,
+    "maleRate": 58.25,
+    "maleLongevity": 35.6,
+    "totalRate": 58.42,
+    "totalLongevity": 35.73,
+    "womenToMen": "103.20%"
+  },
+  {
+    "jobtitle": "Elecl Svc Engr",
+    "femaleRate": 45.25,
+    "femaleLongevity": 72,
+    "maleRate": 44.27,
+    "maleLongevity": 80.4,
+    "totalRate": 44.44,
+    "totalLongevity": 79,
+    "womenToMen": "102.21%"
+  },
+  {
+    "jobtitle": "Elecl Svc Rep",
+    "femaleRate": 31.79,
+    "femaleLongevity": 80.67,
+    "maleRate": 32.31,
+    "maleLongevity": 58.29,
+    "totalRate": 32.07,
+    "totalLongevity": 68.62,
+    "womenToMen": "98.41%"
+  },
+  {
+    "jobtitle": "Elecl Svc Rep,Sr",
+    "femaleRate": 35.37,
+    "femaleLongevity": 64.25,
+    "maleRate": 34.71,
+    "maleLongevity": 73.62,
+    "totalRate": 34.87,
+    "totalLongevity": 71.41,
+    "womenToMen": "101.92%"
+  },
+  {
+    "jobtitle": "Elecl Svc Rep,Supvsng",
+    "femaleRate": 39.95,
+    "femaleLongevity": 64.33,
+    "maleRate": 39.95,
+    "maleLongevity": 87.75,
+    "totalRate": 39.95,
+    "totalLongevity": 77.71,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Electric Util Exec 3,Dir",
+    "femaleRate": 86.34,
+    "femaleLongevity": 64,
+    "maleRate": 86.81,
+    "maleLongevity": 35.67,
+    "totalRate": 86.75,
+    "totalLongevity": 39.71,
+    "womenToMen": "99.45%"
+  },
+  {
+    "jobtitle": "Elevator Inspector,Sr(Expert)",
+    "femaleRate": 40.74,
+    "femaleLongevity": 72,
+    "maleRate": 40.74,
+    "maleLongevity": 46.67,
+    "totalRate": 40.74,
+    "totalLongevity": 50.29,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Engrng Aide",
+    "femaleRate": 24.69,
+    "femaleLongevity": 61,
+    "maleRate": 25.99,
+    "maleLongevity": 68.5,
+    "totalRate": 25.4,
+    "totalLongevity": 65.09,
+    "womenToMen": "95.01%"
+  },
+  {
+    "jobtitle": "Enrgy Mgmt Anlyst",
+    "femaleRate": 41.39,
+    "femaleLongevity": 22,
+    "maleRate": 41.42,
+    "maleLongevity": 36.25,
+    "totalRate": 41.41,
+    "totalLongevity": 33.4,
+    "womenToMen": "99.93%"
+  },
+  {
+    "jobtitle": "Enrgy Mgmt Anlyst Supv",
+    "femaleRate": 49.56,
+    "femaleLongevity": 85.5,
+    "maleRate": 49.56,
+    "maleLongevity": 139,
+    "totalRate": 49.56,
+    "totalLongevity": 112.25,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Enrgy Mgmt Anlyst,Asst",
+    "femaleRate": 35.57,
+    "femaleLongevity": 28,
+    "maleRate": 36.59,
+    "maleLongevity": 73.8,
+    "totalRate": 36.21,
+    "totalLongevity": 56.63,
+    "womenToMen": "97.21%"
+  },
+  {
+    "jobtitle": "Enrgy Mgmt Anlyst,Sr",
+    "femaleRate": 45.96,
+    "femaleLongevity": 26.25,
+    "maleRate": 45.96,
+    "maleLongevity": 50.43,
+    "totalRate": 45.96,
+    "totalLongevity": 45.06,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Enrgy Plng Anlyst",
+    "femaleRate": 33.69,
+    "femaleLongevity": 5,
+    "maleRate": 33.67,
+    "maleLongevity": 10,
+    "totalRate": 33.67,
+    "totalLongevity": 8.33,
+    "womenToMen": "100.07%"
+  },
+  {
+    "jobtitle": "Envrnmtl Anlyst,Assoc",
+    "femaleRate": 35.05,
+    "femaleLongevity": 42,
+    "maleRate": 35.93,
+    "maleLongevity": 55.33,
+    "totalRate": 35.58,
+    "totalLongevity": 50,
+    "womenToMen": "97.54%"
+  },
+  {
+    "jobtitle": "Envrnmtl Anlyst,Sr",
+    "femaleRate": 42.85,
+    "femaleLongevity": 108.74,
+    "maleRate": 42.63,
+    "maleLongevity": 63.85,
+    "totalRate": 42.76,
+    "totalLongevity": 90.5,
+    "womenToMen": "100.52%"
+  },
+  {
+    "jobtitle": "Envrnmtl Fld Spec",
+    "femaleRate": 31.74,
+    "femaleLongevity": 110.5,
+    "maleRate": 31.74,
+    "maleLongevity": 91.5,
+    "totalRate": 31.74,
+    "totalLongevity": 104.17,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Events Booking Rep",
+    "femaleRate": 29.99,
+    "femaleLongevity": 24,
+    "maleRate": 27.78,
+    "maleLongevity": 10,
+    "totalRate": 28.88,
+    "totalLongevity": 17,
+    "womenToMen": "107.96%"
+  },
+  {
+    "jobtitle": "Events Booking Rep,Sr",
+    "femaleRate": 36.3,
+    "femaleLongevity": 110,
+    "maleRate": 31.16,
+    "maleLongevity": 3,
+    "totalRate": 33.73,
+    "totalLongevity": 56.5,
+    "womenToMen": "116.50%"
+  },
+  {
+    "jobtitle": "Events Svc Rep,Sr",
+    "femaleRate": 36.3,
+    "femaleLongevity": 115.67,
+    "maleRate": 36.3,
+    "maleLongevity": 85,
+    "totalRate": 36.3,
+    "totalLongevity": 103.4,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Evidence Warehouser",
+    "femaleRate": 23.8,
+    "femaleLongevity": 39.67,
+    "maleRate": 25.03,
+    "maleLongevity": 142,
+    "totalRate": 24.29,
+    "totalLongevity": 80.6,
+    "womenToMen": "95.10%"
+  },
+  {
+    "jobtitle": "Evidence Warehouser,Sr",
+    "femaleRate": 27.54,
+    "femaleLongevity": 105.5,
+    "maleRate": 27.54,
+    "maleLongevity": 52,
+    "totalRate": 27.54,
+    "totalLongevity": 69.83,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Exec Asst",
+    "femaleRate": 41.56,
+    "femaleLongevity": 66.43,
+    "maleRate": 43.1,
+    "maleLongevity": 67,
+    "totalRate": 41.75,
+    "totalLongevity": 66.5,
+    "womenToMen": "96.42%"
+  },
+  {
+    "jobtitle": "Exec Asst,Sr",
+    "femaleRate": 44.03,
+    "femaleLongevity": 67,
+    "maleRate": 43.14,
+    "maleLongevity": 48.5,
+    "totalRate": 43.87,
+    "totalLongevity": 63.64,
+    "womenToMen": "102.05%"
+  },
+  {
+    "jobtitle": "Exec Manager-Legislative",
+    "femaleRate": 63.87,
+    "femaleLongevity": 34,
+    "maleRate": 64.7,
+    "maleLongevity": 85,
+    "totalRate": 64.28,
+    "totalLongevity": 59.5,
+    "womenToMen": "98.71%"
+  },
+  {
+    "jobtitle": "Executive1",
+    "femaleRate": 57.91,
+    "femaleLongevity": 33.75,
+    "maleRate": 56.59,
+    "maleLongevity": 40.67,
+    "totalRate": 57.11,
+    "totalLongevity": 37.9,
+    "womenToMen": "102.33%"
+  },
+  {
+    "jobtitle": "Executive2",
+    "femaleRate": 63.18,
+    "femaleLongevity": 58.51,
+    "maleRate": 63.94,
+    "maleLongevity": 57.75,
+    "totalRate": 63.55,
+    "totalLongevity": 58.13,
+    "womenToMen": "98.82%"
+  },
+  {
+    "jobtitle": "Executive3",
+    "femaleRate": 73.05,
+    "femaleLongevity": 68.4,
+    "maleRate": 70.83,
+    "maleLongevity": 33.17,
+    "totalRate": 71.84,
+    "totalLongevity": 49.18,
+    "womenToMen": "103.13%"
+  },
+  {
+    "jobtitle": "Executive4",
+    "femaleRate": 72.13,
+    "femaleLongevity": 18,
+    "maleRate": 87.78,
+    "maleLongevity": 55.93,
+    "totalRate": 85.94,
+    "totalLongevity": 51.47,
+    "womenToMen": "82.18%"
+  },
+  {
+    "jobtitle": "Facilities Lead Wkr",
+    "femaleRate": 26.5,
+    "femaleLongevity": 119,
+    "maleRate": 26.5,
+    "maleLongevity": 80.8,
+    "totalRate": 26.5,
+    "totalLongevity": 87.17,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Facilities Maint Wkr",
+    "femaleRate": 26.5,
+    "femaleLongevity": 103,
+    "maleRate": 26.34,
+    "maleLongevity": 133.83,
+    "totalRate": 26.36,
+    "totalLongevity": 129.43,
+    "womenToMen": "100.61%"
+  },
+  {
+    "jobtitle": "Fin Anlyst,Asst",
+    "femaleRate": 27.48,
+    "femaleLongevity": 100.67,
+    "maleRate": 28.84,
+    "maleLongevity": 12,
+    "totalRate": 27.82,
+    "totalLongevity": 78.5,
+    "womenToMen": "95.30%"
+  },
+  {
+    "jobtitle": "Fin Anlyst,Sr",
+    "femaleRate": 39.66,
+    "femaleLongevity": 75.35,
+    "maleRate": 39.09,
+    "maleLongevity": 41.59,
+    "totalRate": 39.4,
+    "totalLongevity": 59.84,
+    "womenToMen": "101.46%"
+  },
+  {
+    "jobtitle": "Fire Battalion Chief-91.4 Hrs",
+    "femaleRate": 59.25,
+    "femaleLongevity": 30,
+    "maleRate": 57.8,
+    "maleLongevity": 73.36,
+    "totalRate": 57.86,
+    "totalLongevity": 71.48,
+    "womenToMen": "102.51%"
+  },
+  {
+    "jobtitle": "Fire Capt-91.40 Hrs",
+    "femaleRate": 48.11,
+    "femaleLongevity": 20,
+    "maleRate": 47.77,
+    "maleLongevity": 31.28,
+    "totalRate": 47.81,
+    "totalLongevity": 30.03,
+    "womenToMen": "100.71%"
+  },
+  {
+    "jobtitle": "Fire Capt-Admin-80 Hrs",
+    "femaleRate": 57.39,
+    "femaleLongevity": 26,
+    "maleRate": 57.39,
+    "maleLongevity": 13,
+    "totalRate": 57.39,
+    "totalLongevity": 17.33,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Fire Equip Tech",
+    "femaleRate": 27.25,
+    "femaleLongevity": 21,
+    "maleRate": 27.25,
+    "maleLongevity": 134.5,
+    "totalRate": 27.25,
+    "totalLongevity": 96.67,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Fire Lieut-91.40 Hrs",
+    "femaleRate": 42.42,
+    "femaleLongevity": 41.73,
+    "maleRate": 41.87,
+    "maleLongevity": 36.98,
+    "totalRate": 41.93,
+    "totalLongevity": 37.48,
+    "womenToMen": "101.31%"
+  },
+  {
+    "jobtitle": "Fire Lieut-HM-91.40 Hrs",
+    "femaleRate": 43.81,
+    "femaleLongevity": 3,
+    "maleRate": 43.85,
+    "maleLongevity": 46.13,
+    "totalRate": 43.85,
+    "totalLongevity": 41.33,
+    "womenToMen": "99.90%"
+  },
+  {
+    "jobtitle": "Fire Lieut-Prev Inspector I",
+    "femaleRate": 52.09,
+    "femaleLongevity": 196,
+    "maleRate": 51.4,
+    "maleLongevity": 112.86,
+    "totalRate": 51.55,
+    "totalLongevity": 131.33,
+    "womenToMen": "101.35%"
+  },
+  {
+    "jobtitle": "Fireftr-91.40 Hrs",
+    "femaleRate": 35.68,
+    "femaleLongevity": 35.12,
+    "maleRate": 34.36,
+    "maleLongevity": 39.25,
+    "totalRate": 34.43,
+    "totalLongevity": 39.03,
+    "womenToMen": "103.84%"
+  },
+  {
+    "jobtitle": "Fireftr-AP Drvr-91.40 Hrs",
+    "femaleRate": 38.11,
+    "femaleLongevity": 47.6,
+    "maleRate": 38.41,
+    "maleLongevity": 37.3,
+    "totalRate": 38.39,
+    "totalLongevity": 37.92,
+    "womenToMen": "99.22%"
+  },
+  {
+    "jobtitle": "Fireftr-Dispatcher-84 Hrs",
+    "femaleRate": 43.58,
+    "femaleLongevity": 138.57,
+    "maleRate": 43.16,
+    "maleLongevity": 109.89,
+    "totalRate": 43.42,
+    "totalLongevity": 127.35,
+    "womenToMen": "100.98%"
+  },
+  {
+    "jobtitle": "Fireftr-HM-91.40 Hrs",
+    "femaleRate": 37.46,
+    "femaleLongevity": 36.5,
+    "maleRate": 36.85,
+    "maleLongevity": 33.98,
+    "totalRate": 36.9,
+    "totalLongevity": 34.2,
+    "womenToMen": "101.65%"
+  },
+  {
+    "jobtitle": "Fireftr-ParamedTech-91.40 Hrs",
+    "femaleRate": 40.71,
+    "femaleLongevity": 27,
+    "maleRate": 40.26,
+    "maleLongevity": 23.4,
+    "totalRate": 40.31,
+    "totalLongevity": 23.82,
+    "womenToMen": "101.11%"
+  },
+  {
+    "jobtitle": "Fireftr-ParamedTechSr-91.40",
+    "femaleRate": 42.69,
+    "femaleLongevity": 45.07,
+    "maleRate": 42.48,
+    "maleLongevity": 43.94,
+    "totalRate": 42.54,
+    "totalLongevity": 44.27,
+    "womenToMen": "100.50%"
+  },
+  {
+    "jobtitle": "Fireftr-Prev Insp I",
+    "femaleRate": 45.89,
+    "femaleLongevity": 66.33,
+    "maleRate": 46.06,
+    "maleLongevity": 112.2,
+    "totalRate": 46.02,
+    "totalLongevity": 101.62,
+    "womenToMen": "99.63%"
+  },
+  {
+    "jobtitle": "Fireftr-TRT Ap Drvr-91.40 Hrs",
+    "femaleRate": 41.21,
+    "femaleLongevity": 52,
+    "maleRate": 40.77,
+    "maleLongevity": 40,
+    "totalRate": 40.88,
+    "totalLongevity": 43,
+    "womenToMen": "101.08%"
+  },
+  {
+    "jobtitle": "Forest Maint Wkr,Sr",
+    "femaleRate": 29.41,
+    "femaleLongevity": 121,
+    "maleRate": 29.41,
+    "maleLongevity": 56,
+    "totalRate": 29.41,
+    "totalLongevity": 88.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Gardener",
+    "femaleRate": 24.33,
+    "femaleLongevity": 122.14,
+    "maleRate": 24,
+    "maleLongevity": 52.67,
+    "totalRate": 24.17,
+    "totalLongevity": 87.4,
+    "womenToMen": "101.37%"
+  },
+  {
+    "jobtitle": "Gardener,Sr",
+    "femaleRate": 27.14,
+    "femaleLongevity": 101.22,
+    "maleRate": 27.18,
+    "maleLongevity": 111,
+    "totalRate": 27.17,
+    "totalLongevity": 107.33,
+    "womenToMen": "99.84%"
+  },
+  {
+    "jobtitle": "Golf Course Groundskeeper II",
+    "femaleRate": 18.12,
+    "femaleLongevity": 19,
+    "maleRate": 18.12,
+    "maleLongevity": 28,
+    "totalRate": 18.12,
+    "totalLongevity": 25,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Grand Total",
+    "femaleRate": 35.35,
+    "femaleLongevity": 81.83,
+    "maleRate": 39.04,
+    "maleLongevity": 78.38,
+    "totalRate": 37.7,
+    "totalLongevity": 79.64,
+    "womenToMen": "90.55%"
+  },
+  {
+    "jobtitle": "Grants&Contracts Spec,Sr",
+    "femaleRate": 32.43,
+    "femaleLongevity": 103.69,
+    "maleRate": 32.41,
+    "maleLongevity": 133.86,
+    "totalRate": 32.43,
+    "totalLongevity": 110.09,
+    "womenToMen": "100.06%"
+  },
+  {
+    "jobtitle": "Graphic Arts Designer",
+    "femaleRate": 29.61,
+    "femaleLongevity": 107.33,
+    "maleRate": 29.99,
+    "maleLongevity": 73,
+    "totalRate": 29.7,
+    "totalLongevity": 98.75,
+    "womenToMen": "98.72%"
+  },
+  {
+    "jobtitle": "Grounds Maint Lead Wkr",
+    "femaleRate": 26.5,
+    "femaleLongevity": 114,
+    "maleRate": 26.5,
+    "maleLongevity": 85.3,
+    "totalRate": 26.5,
+    "totalLongevity": 94.87,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Housing/Zoning Inspector",
+    "femaleRate": 34.32,
+    "femaleLongevity": 94,
+    "maleRate": 33.68,
+    "maleLongevity": 63.75,
+    "totalRate": 34.04,
+    "totalLongevity": 80.56,
+    "womenToMen": "101.90%"
+  },
+  {
+    "jobtitle": "Housing/Zoning Inspector,Sr",
+    "femaleRate": 36.3,
+    "femaleLongevity": 80,
+    "maleRate": 36.3,
+    "maleLongevity": 11,
+    "totalRate": 36.3,
+    "totalLongevity": 45.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "HRIS Spec",
+    "femaleRate": 33.69,
+    "femaleLongevity": 83,
+    "maleRate": 33.69,
+    "maleLongevity": 104,
+    "totalRate": 33.69,
+    "totalLongevity": 90,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Human Svcs Prgm Supv,Sr",
+    "femaleRate": 37.25,
+    "femaleLongevity": 50.2,
+    "maleRate": 37.82,
+    "maleLongevity": 74,
+    "totalRate": 37.5,
+    "totalLongevity": 60.78,
+    "womenToMen": "98.48%"
+  },
+  {
+    "jobtitle": "Hydroelec Op II",
+    "femaleRate": 41.14,
+    "femaleLongevity": 225,
+    "maleRate": 41.14,
+    "maleLongevity": 124.55,
+    "totalRate": 41.14,
+    "totalLongevity": 140,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Identification Data Spec",
+    "femaleRate": 24.22,
+    "femaleLongevity": 55.33,
+    "maleRate": 24.36,
+    "maleLongevity": 64,
+    "totalRate": 24.25,
+    "totalLongevity": 57.5,
+    "womenToMen": "99.42%"
+  },
+  {
+    "jobtitle": "Identification Tech",
+    "femaleRate": 31.57,
+    "femaleLongevity": 120,
+    "maleRate": 31.74,
+    "maleLongevity": 125,
+    "totalRate": 31.59,
+    "totalLongevity": 120.63,
+    "womenToMen": "99.46%"
+  },
+  {
+    "jobtitle": "Info Technol Prgmmer Anlyst",
+    "femaleRate": 36.3,
+    "femaleLongevity": 108,
+    "maleRate": 36.3,
+    "maleLongevity": 126.5,
+    "totalRate": 36.3,
+    "totalLongevity": 120.33,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Info Technol Prof A,Exempt",
+    "femaleRate": 56.11,
+    "femaleLongevity": 78.79,
+    "maleRate": 55.27,
+    "maleLongevity": 85.17,
+    "totalRate": 55.54,
+    "totalLongevity": 83.09,
+    "womenToMen": "101.53%"
+  },
+  {
+    "jobtitle": "Info Technol Prof B",
+    "femaleRate": 47.11,
+    "femaleLongevity": 101.42,
+    "maleRate": 47.09,
+    "maleLongevity": 96.38,
+    "totalRate": 47.1,
+    "totalLongevity": 97.71,
+    "womenToMen": "100.04%"
+  },
+  {
+    "jobtitle": "Info Technol Prof B-BU",
+    "femaleRate": 48.55,
+    "femaleLongevity": 88.06,
+    "maleRate": 48.12,
+    "maleLongevity": 83.34,
+    "totalRate": 48.27,
+    "totalLongevity": 85.02,
+    "womenToMen": "100.90%"
+  },
+  {
+    "jobtitle": "Info Technol Prof C",
+    "femaleRate": 42.03,
+    "femaleLongevity": 90.5,
+    "maleRate": 40.03,
+    "maleLongevity": 89.71,
+    "totalRate": 40.38,
+    "totalLongevity": 89.85,
+    "womenToMen": "105.01%"
+  },
+  {
+    "jobtitle": "Info Technol Prof C-BU",
+    "femaleRate": 41.29,
+    "femaleLongevity": 69.23,
+    "maleRate": 40.35,
+    "maleLongevity": 60.17,
+    "totalRate": 40.55,
+    "totalLongevity": 62.1,
+    "womenToMen": "102.33%"
+  },
+  {
+    "jobtitle": "Info Technol Spec",
+    "femaleRate": 31.16,
+    "femaleLongevity": 50.67,
+    "maleRate": 31.76,
+    "maleLongevity": 72,
+    "totalRate": 31.24,
+    "totalLongevity": 53.71,
+    "womenToMen": "98.10%"
+  },
+  {
+    "jobtitle": "Info Technol Systs Anlyst",
+    "femaleRate": 37.93,
+    "femaleLongevity": 112.53,
+    "maleRate": 37.82,
+    "maleLongevity": 98.12,
+    "totalRate": 37.86,
+    "totalLongevity": 102.53,
+    "womenToMen": "100.27%"
+  },
+  {
+    "jobtitle": "Installation Maint Wkr",
+    "femaleRate": 25.54,
+    "femaleLongevity": 18.5,
+    "maleRate": 25.33,
+    "maleLongevity": 83.33,
+    "totalRate": 25.35,
+    "totalLongevity": 76.85,
+    "womenToMen": "100.83%"
+  },
+  {
+    "jobtitle": "Janitor-FAS/CL",
+    "femaleRate": 19.38,
+    "femaleLongevity": 132.17,
+    "maleRate": 19.38,
+    "maleLongevity": 135.76,
+    "totalRate": 19.38,
+    "totalLongevity": 134.83,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Janitor-SC/Parks/SPU",
+    "femaleRate": 19.38,
+    "femaleLongevity": 88.5,
+    "maleRate": 19.38,
+    "maleLongevity": 103.8,
+    "totalRate": 19.38,
+    "totalLongevity": 94.38,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Janitor,Lead-FAS/CL",
+    "femaleRate": 20.96,
+    "femaleLongevity": 68,
+    "maleRate": 20.96,
+    "maleLongevity": 59,
+    "totalRate": 20.96,
+    "totalLongevity": 61.25,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Janitor,Lead-SC/Parks/SPU",
+    "femaleRate": 20.96,
+    "femaleLongevity": 192,
+    "maleRate": 19.38,
+    "maleLongevity": 1,
+    "totalRate": 20.17,
+    "totalLongevity": 96.5,
+    "womenToMen": "108.15%"
+  },
+  {
+    "jobtitle": "Jrnywkr In Chg",
+    "femaleRate": 44.63,
+    "femaleLongevity": 11,
+    "maleRate": 44.63,
+    "maleLongevity": 89.5,
+    "totalRate": 44.63,
+    "totalLongevity": 82.36,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Labor Relations Coord",
+    "femaleRate": 48.45,
+    "femaleLongevity": 54.33,
+    "maleRate": 49.05,
+    "maleLongevity": 49,
+    "totalRate": 48.6,
+    "totalLongevity": 53,
+    "womenToMen": "98.78%"
+  },
+  {
+    "jobtitle": "Laborer",
+    "femaleRate": 20.96,
+    "femaleLongevity": 85.07,
+    "maleRate": 21.08,
+    "maleLongevity": 84.88,
+    "totalRate": 21.06,
+    "totalLongevity": 84.92,
+    "womenToMen": "99.43%"
+  },
+  {
+    "jobtitle": "Land Use Plnr II",
+    "femaleRate": 39.2,
+    "femaleLongevity": 143.5,
+    "maleRate": 37.82,
+    "maleLongevity": 98.5,
+    "totalRate": 38.51,
+    "totalLongevity": 121,
+    "womenToMen": "103.64%"
+  },
+  {
+    "jobtitle": "Land Use Plnr III",
+    "femaleRate": 41.16,
+    "femaleLongevity": 43.71,
+    "maleRate": 41.97,
+    "maleLongevity": 82.36,
+    "totalRate": 41.66,
+    "totalLongevity": 67.33,
+    "womenToMen": "98.07%"
+  },
+  {
+    "jobtitle": "Land Use Plnr IV",
+    "femaleRate": 44.74,
+    "femaleLongevity": 51.88,
+    "maleRate": 44.74,
+    "maleLongevity": 120.75,
+    "totalRate": 44.74,
+    "totalLongevity": 74.83,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Landscape Architect,Sr",
+    "femaleRate": 44.74,
+    "femaleLongevity": 186.33,
+    "maleRate": 44.74,
+    "maleLongevity": 175,
+    "totalRate": 44.74,
+    "totalLongevity": 183.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Landscape Supv",
+    "femaleRate": 33.93,
+    "femaleLongevity": 255,
+    "maleRate": 33.93,
+    "maleLongevity": 21,
+    "totalRate": 33.93,
+    "totalLongevity": 177,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Latent Print Examiner",
+    "femaleRate": 34.55,
+    "femaleLongevity": 39.56,
+    "maleRate": 36.3,
+    "maleLongevity": 245,
+    "totalRate": 34.72,
+    "totalLongevity": 60.1,
+    "womenToMen": "95.18%"
+  },
+  {
+    "jobtitle": "Legal Asst",
+    "femaleRate": 24.9,
+    "femaleLongevity": 97.71,
+    "maleRate": 23.88,
+    "maleLongevity": 15,
+    "totalRate": 24.83,
+    "totalLongevity": 92.2,
+    "womenToMen": "104.26%"
+  },
+  {
+    "jobtitle": "Legislative Asst",
+    "femaleRate": 32.95,
+    "femaleLongevity": 70.31,
+    "maleRate": 33.16,
+    "maleLongevity": 57,
+    "totalRate": 33.06,
+    "totalLongevity": 63.41,
+    "womenToMen": "99.39%"
+  },
+  {
+    "jobtitle": "Legislative Info Spec I",
+    "femaleRate": 22.96,
+    "femaleLongevity": 42,
+    "maleRate": 22.96,
+    "maleLongevity": 42,
+    "totalRate": 22.96,
+    "totalLongevity": 42,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Licenses&Standards Inspector",
+    "femaleRate": 31.89,
+    "femaleLongevity": 91.86,
+    "maleRate": 33.32,
+    "maleLongevity": 194.45,
+    "totalRate": 32.76,
+    "totalLongevity": 154.56,
+    "womenToMen": "95.72%"
+  },
+  {
+    "jobtitle": "Lifeguard",
+    "femaleRate": 16.61,
+    "femaleLongevity": 8,
+    "maleRate": 16.39,
+    "maleLongevity": 28,
+    "totalRate": 16.48,
+    "totalLongevity": 19.43,
+    "womenToMen": "101.34%"
+  },
+  {
+    "jobtitle": "Lifeguard,Sr",
+    "femaleRate": 19.5,
+    "femaleLongevity": 51.67,
+    "maleRate": 19.46,
+    "maleLongevity": 64.78,
+    "totalRate": 19.48,
+    "totalLongevity": 57.29,
+    "womenToMen": "100.21%"
+  },
+  {
+    "jobtitle": "Line C CC",
+    "femaleRate": 47.67,
+    "femaleLongevity": 174,
+    "maleRate": 47.67,
+    "maleLongevity": 114.03,
+    "totalRate": 47.67,
+    "totalLongevity": 115.91,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Line CC-Asg C Coord",
+    "femaleRate": 47.67,
+    "femaleLongevity": 29,
+    "maleRate": 47.67,
+    "maleLongevity": 59.8,
+    "totalRate": 47.67,
+    "totalLongevity": 54.67,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Lnwkr",
+    "femaleRate": 42.37,
+    "femaleLongevity": 94.17,
+    "maleRate": 42.37,
+    "maleLongevity": 80.09,
+    "totalRate": 42.37,
+    "totalLongevity": 80.79,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Lnwkr Aprn",
+    "femaleRate": 35.17,
+    "femaleLongevity": 20,
+    "maleRate": 35.24,
+    "maleLongevity": 28.18,
+    "totalRate": 35.24,
+    "totalLongevity": 27.72,
+    "womenToMen": "99.80%"
+  },
+  {
+    "jobtitle": "Mach Spec",
+    "femaleRate": 27.51,
+    "femaleLongevity": 307,
+    "maleRate": 26.78,
+    "maleLongevity": 53.67,
+    "totalRate": 26.97,
+    "totalLongevity": 117,
+    "womenToMen": "102.71%"
+  },
+  {
+    "jobtitle": "Magistrate",
+    "femaleRate": 52.25,
+    "femaleLongevity": 152.5,
+    "maleRate": 51.27,
+    "maleLongevity": 102,
+    "totalRate": 51.6,
+    "totalLongevity": 118.83,
+    "womenToMen": "101.91%"
+  },
+  {
+    "jobtitle": "Maint Laborer",
+    "femaleRate": 23.38,
+    "femaleLongevity": 98.31,
+    "maleRate": 23.38,
+    "maleLongevity": 79.94,
+    "totalRate": 23.38,
+    "totalLongevity": 83.22,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Maint Laborer,Sr-Traffic",
+    "femaleRate": 25.04,
+    "femaleLongevity": 129.33,
+    "maleRate": 25.04,
+    "maleLongevity": 78.43,
+    "totalRate": 25.04,
+    "totalLongevity": 93.7,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Manager1,CL&PS",
+    "femaleRate": 40.71,
+    "femaleLongevity": 46.67,
+    "maleRate": 47.3,
+    "maleLongevity": 74,
+    "totalRate": 42.36,
+    "totalLongevity": 53.5,
+    "womenToMen": "86.07%"
+  },
+  {
+    "jobtitle": "Manager1,Exempt",
+    "femaleRate": 47.33,
+    "femaleLongevity": 147,
+    "maleRate": 34.55,
+    "maleLongevity": 15,
+    "totalRate": 40.94,
+    "totalLongevity": 81,
+    "womenToMen": "136.97%"
+  },
+  {
+    "jobtitle": "Manager1,Fin,Bud,&Actg",
+    "femaleRate": 43.38,
+    "femaleLongevity": 68.5,
+    "maleRate": 43.56,
+    "maleLongevity": 46,
+    "totalRate": 43.43,
+    "totalLongevity": 62.36,
+    "womenToMen": "99.59%"
+  },
+  {
+    "jobtitle": "Manager1,General Govt",
+    "femaleRate": 43.02,
+    "femaleLongevity": 57.43,
+    "maleRate": 37.62,
+    "maleLongevity": 39.5,
+    "totalRate": 41.82,
+    "totalLongevity": 53.44,
+    "womenToMen": "114.34%"
+  },
+  {
+    "jobtitle": "Manager1,Human Svcs",
+    "femaleRate": 38.55,
+    "femaleLongevity": 9,
+    "maleRate": 39.82,
+    "maleLongevity": 49.5,
+    "totalRate": 39.19,
+    "totalLongevity": 29.25,
+    "womenToMen": "96.79%"
+  },
+  {
+    "jobtitle": "Manager1,P&FM",
+    "femaleRate": 40.2,
+    "femaleLongevity": 121,
+    "maleRate": 42.24,
+    "maleLongevity": 91.67,
+    "totalRate": 41.73,
+    "totalLongevity": 99,
+    "womenToMen": "95.17%"
+  },
+  {
+    "jobtitle": "Manager1,Parks&Rec",
+    "femaleRate": 42.14,
+    "femaleLongevity": 58,
+    "maleRate": 39.19,
+    "maleLongevity": 46,
+    "totalRate": 40.66,
+    "totalLongevity": 52,
+    "womenToMen": "107.55%"
+  },
+  {
+    "jobtitle": "Manager1,Utils-BU",
+    "femaleRate": 41.37,
+    "femaleLongevity": 63,
+    "maleRate": 47.39,
+    "maleLongevity": 0,
+    "totalRate": 44.38,
+    "totalLongevity": 31.5,
+    "womenToMen": "87.29%"
+  },
+  {
+    "jobtitle": "Manager2,CL&PS",
+    "femaleRate": 45.03,
+    "femaleLongevity": 142.5,
+    "maleRate": 47.28,
+    "maleLongevity": 132,
+    "totalRate": 45.78,
+    "totalLongevity": 139,
+    "womenToMen": "95.25%"
+  },
+  {
+    "jobtitle": "Manager2,CSPI&P",
+    "femaleRate": 45.93,
+    "femaleLongevity": 81,
+    "maleRate": 46.85,
+    "maleLongevity": 76.75,
+    "totalRate": 46.39,
+    "totalLongevity": 78.88,
+    "womenToMen": "98.04%"
+  },
+  {
+    "jobtitle": "Manager2,Engrng&Plans Rev",
+    "femaleRate": 51.07,
+    "femaleLongevity": 69.75,
+    "maleRate": 50.27,
+    "maleLongevity": 69.85,
+    "totalRate": 50.46,
+    "totalLongevity": 69.82,
+    "womenToMen": "101.58%"
+  },
+  {
+    "jobtitle": "Manager2,Exempt",
+    "femaleRate": 49.22,
+    "femaleLongevity": 51.33,
+    "maleRate": 47.45,
+    "maleLongevity": 67.33,
+    "totalRate": 48.33,
+    "totalLongevity": 59.33,
+    "womenToMen": "103.73%"
+  },
+  {
+    "jobtitle": "Manager2,Fin,Bud,&Actg",
+    "femaleRate": 48.59,
+    "femaleLongevity": 64.2,
+    "maleRate": 49.86,
+    "maleLongevity": 49.25,
+    "totalRate": 48.95,
+    "totalLongevity": 59.93,
+    "womenToMen": "97.44%"
+  },
+  {
+    "jobtitle": "Manager2,Fin,Bud,&Actg-BU",
+    "femaleRate": 45.03,
+    "femaleLongevity": 108,
+    "maleRate": 49.24,
+    "maleLongevity": 130.5,
+    "totalRate": 47.84,
+    "totalLongevity": 123,
+    "womenToMen": "91.46%"
+  },
+  {
+    "jobtitle": "Manager2,General Govt",
+    "femaleRate": 50.15,
+    "femaleLongevity": 91.11,
+    "maleRate": 50.3,
+    "maleLongevity": 52.71,
+    "totalRate": 50.22,
+    "totalLongevity": 74.31,
+    "womenToMen": "99.70%"
+  },
+  {
+    "jobtitle": "Manager2,Human Svcs",
+    "femaleRate": 43.39,
+    "femaleLongevity": 60.71,
+    "maleRate": 46.42,
+    "maleLongevity": 80.5,
+    "totalRate": 44.06,
+    "totalLongevity": 65.11,
+    "womenToMen": "93.46%"
+  },
+  {
+    "jobtitle": "Manager2,Info Technol",
+    "femaleRate": 47.66,
+    "femaleLongevity": 69,
+    "maleRate": 51.48,
+    "maleLongevity": 111,
+    "totalRate": 49.95,
+    "totalLongevity": 94.2,
+    "womenToMen": "92.57%"
+  },
+  {
+    "jobtitle": "Manager2,P&FM",
+    "femaleRate": 49.12,
+    "femaleLongevity": 43.67,
+    "maleRate": 50.19,
+    "maleLongevity": 27.67,
+    "totalRate": 49.66,
+    "totalLongevity": 35.67,
+    "womenToMen": "97.88%"
+  },
+  {
+    "jobtitle": "Manager2,Parks&Rec",
+    "femaleRate": 47.68,
+    "femaleLongevity": 123,
+    "maleRate": 47.5,
+    "maleLongevity": 115,
+    "totalRate": 47.62,
+    "totalLongevity": 120.33,
+    "womenToMen": "100.38%"
+  },
+  {
+    "jobtitle": "Manager2,Utils",
+    "femaleRate": 52.14,
+    "femaleLongevity": 71.78,
+    "maleRate": 51.35,
+    "maleLongevity": 88.25,
+    "totalRate": 51.69,
+    "totalLongevity": 81.19,
+    "womenToMen": "101.54%"
+  },
+  {
+    "jobtitle": "Manager2,Utils-BU",
+    "femaleRate": 51.33,
+    "femaleLongevity": 60,
+    "maleRate": 49.16,
+    "maleLongevity": 33.2,
+    "totalRate": 49.78,
+    "totalLongevity": 40.86,
+    "womenToMen": "104.41%"
+  },
+  {
+    "jobtitle": "Manager3,CSPI&P",
+    "femaleRate": 51.56,
+    "femaleLongevity": 39,
+    "maleRate": 50.07,
+    "maleLongevity": 122,
+    "totalRate": 50.81,
+    "totalLongevity": 80.5,
+    "womenToMen": "102.98%"
+  },
+  {
+    "jobtitle": "Manager3,Engrng&Plans Rev",
+    "femaleRate": 55.58,
+    "femaleLongevity": 111.89,
+    "maleRate": 56.67,
+    "maleLongevity": 77.29,
+    "totalRate": 56.34,
+    "totalLongevity": 87.67,
+    "womenToMen": "98.06%"
+  },
+  {
+    "jobtitle": "Manager3,Engrng&Plans Rev-BU",
+    "femaleRate": 60.56,
+    "femaleLongevity": 74,
+    "maleRate": 59.78,
+    "maleLongevity": 47.67,
+    "totalRate": 59.98,
+    "totalLongevity": 54.25,
+    "womenToMen": "101.30%"
+  },
+  {
+    "jobtitle": "Manager3,Exempt",
+    "femaleRate": 52.21,
+    "femaleLongevity": 19.5,
+    "maleRate": 53.8,
+    "maleLongevity": 29.17,
+    "totalRate": 53.17,
+    "totalLongevity": 25.3,
+    "womenToMen": "97.05%"
+  },
+  {
+    "jobtitle": "Manager3,Fin,Bud,&Actg",
+    "femaleRate": 52.7,
+    "femaleLongevity": 68.5,
+    "maleRate": 52.7,
+    "maleLongevity": 37,
+    "totalRate": 52.7,
+    "totalLongevity": 55,
+    "womenToMen": "99.99%"
+  },
+  {
+    "jobtitle": "Manager3,General Govt",
+    "femaleRate": 56.25,
+    "femaleLongevity": 38.5,
+    "maleRate": 53.63,
+    "maleLongevity": 25,
+    "totalRate": 55.38,
+    "totalLongevity": 34,
+    "womenToMen": "104.88%"
+  },
+  {
+    "jobtitle": "Manager3,Info Technol",
+    "femaleRate": 57.86,
+    "femaleLongevity": 72.75,
+    "maleRate": 59.36,
+    "maleLongevity": 101.67,
+    "totalRate": 58.5,
+    "totalLongevity": 85.14,
+    "womenToMen": "97.47%"
+  },
+  {
+    "jobtitle": "Manager3,Utils-BU",
+    "femaleRate": 58.24,
+    "femaleLongevity": 38.5,
+    "maleRate": 57.91,
+    "maleLongevity": 66.89,
+    "totalRate": 58.01,
+    "totalLongevity": 58.15,
+    "womenToMen": "100.57%"
+  },
+  {
+    "jobtitle": "Mat Controller,Sr-BU",
+    "femaleRate": 30.16,
+    "femaleLongevity": 8,
+    "maleRate": 30.16,
+    "maleLongevity": 8,
+    "totalRate": 30.16,
+    "totalLongevity": 8,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Mat Suplr-Asg Leo/Pdm/Hb",
+    "femaleRate": 34.13,
+    "femaleLongevity": 89,
+    "maleRate": 36.09,
+    "maleLongevity": 78.64,
+    "totalRate": 35.93,
+    "totalLongevity": 79.5,
+    "womenToMen": "94.57%"
+  },
+  {
+    "jobtitle": "Mat Suplr,Elec-Asg Equip Cust",
+    "femaleRate": 38.2,
+    "femaleLongevity": 63,
+    "maleRate": 38.2,
+    "maleLongevity": 25,
+    "totalRate": 38.2,
+    "totalLongevity": 44,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Mat Suplr,Elec-Asg Phd/Cw/D",
+    "femaleRate": 33.96,
+    "femaleLongevity": 1,
+    "maleRate": 33.96,
+    "maleLongevity": 71.25,
+    "totalRate": 33.96,
+    "totalLongevity": 57.2,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Mayoral Staff Asst 1",
+    "femaleRate": 22.73,
+    "femaleLongevity": 2.5,
+    "maleRate": 22.74,
+    "maleLongevity": 8,
+    "totalRate": 22.73,
+    "totalLongevity": 5.25,
+    "womenToMen": "99.93%"
+  },
+  {
+    "jobtitle": "Mayoral Staff Asst 2",
+    "femaleRate": 30.07,
+    "femaleLongevity": 36.63,
+    "maleRate": 28.6,
+    "maleLongevity": 39.67,
+    "totalRate": 29.67,
+    "totalLongevity": 37.45,
+    "womenToMen": "105.14%"
+  },
+  {
+    "jobtitle": "Mech Plans Engr,Sr",
+    "femaleRate": 50.07,
+    "femaleLongevity": 43,
+    "maleRate": 44.8,
+    "maleLongevity": 7,
+    "totalRate": 47.44,
+    "totalLongevity": 25,
+    "womenToMen": "111.76%"
+  },
+  {
+    "jobtitle": "Metal Fabricator",
+    "femaleRate": 32.54,
+    "femaleLongevity": 244,
+    "maleRate": 32.54,
+    "maleLongevity": 175.33,
+    "totalRate": 32.54,
+    "totalLongevity": 185.14,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Meter Elctn",
+    "femaleRate": 41.14,
+    "femaleLongevity": 45.67,
+    "maleRate": 41.14,
+    "maleLongevity": 46.05,
+    "totalRate": 41.14,
+    "totalLongevity": 46,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Meter Elctn Working CC",
+    "femaleRate": 46.28,
+    "femaleLongevity": 23,
+    "maleRate": 46.28,
+    "maleLongevity": 43.71,
+    "totalRate": 46.28,
+    "totalLongevity": 41.13,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Meter Reader",
+    "femaleRate": 22.86,
+    "femaleLongevity": 130.92,
+    "maleRate": 23,
+    "maleLongevity": 125.32,
+    "totalRate": 22.97,
+    "totalLongevity": 126.58,
+    "womenToMen": "99.38%"
+  },
+  {
+    "jobtitle": "Meter Reader,Sr",
+    "femaleRate": 27.31,
+    "femaleLongevity": 151.5,
+    "maleRate": 26.72,
+    "maleLongevity": 91.29,
+    "totalRate": 26.85,
+    "totalLongevity": 104.67,
+    "womenToMen": "102.20%"
+  },
+  {
+    "jobtitle": "Mgmt Systs Anlyst",
+    "femaleRate": 35.4,
+    "femaleLongevity": 63,
+    "maleRate": 34.27,
+    "maleLongevity": 40.78,
+    "totalRate": 35.09,
+    "totalLongevity": 56.94,
+    "womenToMen": "103.29%"
+  },
+  {
+    "jobtitle": "Mgmt Systs Anlyst Supv",
+    "femaleRate": 47.26,
+    "femaleLongevity": 73.5,
+    "maleRate": 45.58,
+    "maleLongevity": 63.5,
+    "totalRate": 46.42,
+    "totalLongevity": 68.5,
+    "womenToMen": "103.67%"
+  },
+  {
+    "jobtitle": "Mgmt Systs Anlyst,Asst",
+    "femaleRate": 31.23,
+    "femaleLongevity": 51.31,
+    "maleRate": 31.28,
+    "maleLongevity": 50,
+    "totalRate": 31.24,
+    "totalLongevity": 50.94,
+    "womenToMen": "99.84%"
+  },
+  {
+    "jobtitle": "Mgmt Systs Anlyst,Sr",
+    "femaleRate": 41.79,
+    "femaleLongevity": 57.7,
+    "maleRate": 41.81,
+    "maleLongevity": 67.04,
+    "totalRate": 41.8,
+    "totalLongevity": 61.29,
+    "womenToMen": "99.96%"
+  },
+  {
+    "jobtitle": "Muni Judge",
+    "femaleRate": 64.48,
+    "femaleLongevity": 191,
+    "maleRate": 64.48,
+    "maleLongevity": 88.25,
+    "totalRate": 64.48,
+    "totalLongevity": 132.29,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Naturalist",
+    "femaleRate": 26.28,
+    "femaleLongevity": 70,
+    "maleRate": 27.78,
+    "maleLongevity": 142,
+    "totalRate": 26.78,
+    "totalLongevity": 94,
+    "womenToMen": "94.58%"
+  },
+  {
+    "jobtitle": "Neighb District Coord",
+    "femaleRate": 37.7,
+    "femaleLongevity": 90,
+    "maleRate": 37.7,
+    "maleLongevity": 116.67,
+    "totalRate": 37.7,
+    "totalLongevity": 107.78,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Ofc/Maint Aide",
+    "femaleRate": 14.45,
+    "femaleLongevity": 109.21,
+    "maleRate": 14.75,
+    "maleLongevity": 79.51,
+    "totalRate": 14.65,
+    "totalLongevity": 89.59,
+    "womenToMen": "97.93%"
+  },
+  {
+    "jobtitle": "OPA Review Board Member",
+    "femaleRate": 5.11,
+    "femaleLongevity": 19,
+    "maleRate": 5.11,
+    "maleLongevity": 30.33,
+    "totalRate": 5.11,
+    "totalLongevity": 25.8,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Opns Response Cntr Op",
+    "femaleRate": 29.44,
+    "femaleLongevity": 47.75,
+    "maleRate": 29.61,
+    "maleLongevity": 58,
+    "totalRate": 29.51,
+    "totalLongevity": 52.14,
+    "womenToMen": "99.43%"
+  },
+  {
+    "jobtitle": "Paralegal",
+    "femaleRate": 30.71,
+    "femaleLongevity": 67.62,
+    "maleRate": 30.91,
+    "maleLongevity": 87,
+    "totalRate": 30.75,
+    "totalLongevity": 72.18,
+    "womenToMen": "99.35%"
+  },
+  {
+    "jobtitle": "Paralegal Asst II",
+    "femaleRate": 26.45,
+    "femaleLongevity": 130.33,
+    "maleRate": 26.79,
+    "maleLongevity": 195,
+    "totalRate": 26.53,
+    "totalLongevity": 146.5,
+    "womenToMen": "98.73%"
+  },
+  {
+    "jobtitle": "Park Ranger",
+    "femaleRate": 23.42,
+    "femaleLongevity": 47,
+    "maleRate": 23.88,
+    "maleLongevity": 49,
+    "totalRate": 23.73,
+    "totalLongevity": 48.33,
+    "womenToMen": "98.07%"
+  },
+  {
+    "jobtitle": "Parking Enf Ofcr",
+    "femaleRate": 24.53,
+    "femaleLongevity": 123.5,
+    "maleRate": 24.51,
+    "maleLongevity": 85.78,
+    "totalRate": 24.52,
+    "totalLongevity": 103.74,
+    "womenToMen": "100.07%"
+  },
+  {
+    "jobtitle": "Parking Enf Ofcr Supv",
+    "femaleRate": 29.64,
+    "femaleLongevity": 28.67,
+    "maleRate": 30.27,
+    "maleLongevity": 58.56,
+    "totalRate": 30.11,
+    "totalLongevity": 51.08,
+    "womenToMen": "97.93%"
+  },
+  {
+    "jobtitle": "Parks Maint CC",
+    "femaleRate": 36.05,
+    "femaleLongevity": 20,
+    "maleRate": 36.05,
+    "maleLongevity": 21,
+    "totalRate": 36.05,
+    "totalLongevity": 20.43,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Parks Special Events Schdlr,Sr",
+    "femaleRate": 25.28,
+    "femaleLongevity": 11,
+    "maleRate": 28.35,
+    "maleLongevity": 16,
+    "totalRate": 27.33,
+    "totalLongevity": 14.33,
+    "womenToMen": "89.17%"
+  },
+  {
+    "jobtitle": "Parks Special Events Schedlr",
+    "femaleRate": 26.26,
+    "femaleLongevity": 135.2,
+    "maleRate": 26.26,
+    "maleLongevity": 75,
+    "totalRate": 26.26,
+    "totalLongevity": 125.17,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Payroll Supv",
+    "femaleRate": 37.7,
+    "femaleLongevity": 142,
+    "maleRate": 37.7,
+    "maleLongevity": 16,
+    "totalRate": 37.7,
+    "totalLongevity": 116.8,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Permit Process Leader",
+    "femaleRate": 42.6,
+    "femaleLongevity": 34,
+    "maleRate": 44.74,
+    "maleLongevity": 101,
+    "totalRate": 43.67,
+    "totalLongevity": 67.5,
+    "womenToMen": "95.22%"
+  },
+  {
+    "jobtitle": "Permit Spec I",
+    "femaleRate": 31.61,
+    "femaleLongevity": 46.75,
+    "maleRate": 31.59,
+    "maleLongevity": 44.33,
+    "totalRate": 31.6,
+    "totalLongevity": 46.27,
+    "womenToMen": "100.05%"
+  },
+  {
+    "jobtitle": "Permit Spec II",
+    "femaleRate": 31.84,
+    "femaleLongevity": 0,
+    "maleRate": 31.97,
+    "maleLongevity": 29.2,
+    "totalRate": 31.91,
+    "totalLongevity": 16.22,
+    "womenToMen": "99.59%"
+  },
+  {
+    "jobtitle": "Permit Tech",
+    "femaleRate": 26.99,
+    "femaleLongevity": 40.67,
+    "maleRate": 28.35,
+    "maleLongevity": 81,
+    "totalRate": 27.33,
+    "totalLongevity": 50.75,
+    "womenToMen": "95.20%"
+  },
+  {
+    "jobtitle": "Personnel Anlyst,Sr-Comp",
+    "femaleRate": 39.97,
+    "femaleLongevity": 16.5,
+    "maleRate": 42.25,
+    "maleLongevity": 54.5,
+    "totalRate": 41.11,
+    "totalLongevity": 35.5,
+    "womenToMen": "94.60%"
+  },
+  {
+    "jobtitle": "Personnel Spec",
+    "femaleRate": 32.39,
+    "femaleLongevity": 73.72,
+    "maleRate": 33.69,
+    "maleLongevity": 87.4,
+    "totalRate": 32.68,
+    "totalLongevity": 76.7,
+    "womenToMen": "96.15%"
+  },
+  {
+    "jobtitle": "Personnel Spec,Asst",
+    "femaleRate": 26.08,
+    "femaleLongevity": 65.73,
+    "maleRate": 25.82,
+    "maleLongevity": 51,
+    "totalRate": 26.02,
+    "totalLongevity": 62.57,
+    "womenToMen": "101%"
+  },
+  {
+    "jobtitle": "Personnel Spec,Sr",
+    "femaleRate": 35.45,
+    "femaleLongevity": 60.75,
+    "maleRate": 36.3,
+    "maleLongevity": 79.4,
+    "totalRate": 35.62,
+    "totalLongevity": 64.48,
+    "womenToMen": "97.66%"
+  },
+  {
+    "jobtitle": "Plng&Dev Spec I",
+    "femaleRate": 34.17,
+    "femaleLongevity": 88.25,
+    "maleRate": 34.94,
+    "maleLongevity": 155,
+    "totalRate": 34.32,
+    "totalLongevity": 101.6,
+    "womenToMen": "97.78%"
+  },
+  {
+    "jobtitle": "Plng&Dev Spec II",
+    "femaleRate": 37.54,
+    "femaleLongevity": 104.58,
+    "maleRate": 37.21,
+    "maleLongevity": 96.64,
+    "totalRate": 37.45,
+    "totalLongevity": 102.59,
+    "womenToMen": "100.88%"
+  },
+  {
+    "jobtitle": "Plng&Dev Spec,Sr",
+    "femaleRate": 41.6,
+    "femaleLongevity": 56.7,
+    "maleRate": 42.32,
+    "maleLongevity": 64.39,
+    "totalRate": 41.95,
+    "totalLongevity": 60.41,
+    "womenToMen": "98.29%"
+  },
+  {
+    "jobtitle": "Plng&Dev Spec,Supvsng",
+    "femaleRate": 45.74,
+    "femaleLongevity": 58,
+    "maleRate": 46.41,
+    "maleLongevity": 44,
+    "totalRate": 45.99,
+    "totalLongevity": 52.75,
+    "womenToMen": "98.56%"
+  },
+  {
+    "jobtitle": "Plnt Ecologist",
+    "femaleRate": 33.09,
+    "femaleLongevity": 35,
+    "maleRate": 31.82,
+    "maleLongevity": 34.5,
+    "totalRate": 32.24,
+    "totalLongevity": 34.67,
+    "womenToMen": "103.99%"
+  },
+  {
+    "jobtitle": "Plumber,Sr",
+    "femaleRate": 36.9,
+    "femaleLongevity": 127,
+    "maleRate": 36.9,
+    "maleLongevity": 136.5,
+    "totalRate": 36.9,
+    "totalLongevity": 133.33,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Pmp Stat Maint Leadwkr",
+    "femaleRate": 28.1,
+    "femaleLongevity": 120,
+    "maleRate": 28.1,
+    "maleLongevity": 125.33,
+    "totalRate": 28.1,
+    "totalLongevity": 124,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Pmp Stat Maint Wkr CI",
+    "femaleRate": 25.54,
+    "femaleLongevity": 31,
+    "maleRate": 25.54,
+    "maleLongevity": 11,
+    "totalRate": 25.54,
+    "totalLongevity": 21,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Pntr",
+    "femaleRate": 30.28,
+    "femaleLongevity": 284,
+    "maleRate": 30.28,
+    "maleLongevity": 153,
+    "totalRate": 30.28,
+    "totalLongevity": 163.92,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Pol Capt-Precinct",
+    "femaleRate": 81.65,
+    "femaleLongevity": 40,
+    "maleRate": 80.61,
+    "maleLongevity": 22.5,
+    "totalRate": 80.81,
+    "totalLongevity": 26,
+    "womenToMen": "101.30%"
+  },
+  {
+    "jobtitle": "Pol Comms Dispatcher I",
+    "femaleRate": 25.12,
+    "femaleLongevity": 74.23,
+    "maleRate": 24.47,
+    "maleLongevity": 31.36,
+    "totalRate": 24.97,
+    "totalLongevity": 64.8,
+    "womenToMen": "102.63%"
+  },
+  {
+    "jobtitle": "Pol Comms Dispatcher II",
+    "femaleRate": 30.2,
+    "femaleLongevity": 92.93,
+    "maleRate": 29.82,
+    "maleLongevity": 98,
+    "totalRate": 30.12,
+    "totalLongevity": 93.97,
+    "womenToMen": "101.26%"
+  },
+  {
+    "jobtitle": "Pol Comms Dispatcher III",
+    "femaleRate": 33.99,
+    "femaleLongevity": 102.14,
+    "maleRate": 33.62,
+    "maleLongevity": 55.8,
+    "totalRate": 33.84,
+    "totalLongevity": 82.83,
+    "womenToMen": "101.12%"
+  },
+  {
+    "jobtitle": "Pol Comms Dispatcher Supv",
+    "femaleRate": 40,
+    "femaleLongevity": 28,
+    "maleRate": 40,
+    "maleLongevity": 28,
+    "totalRate": 40,
+    "totalLongevity": 28,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Pol Comms Dispatcher,Chief",
+    "femaleRate": 37.4,
+    "femaleLongevity": 45.25,
+    "maleRate": 37.73,
+    "maleLongevity": 126.5,
+    "totalRate": 37.51,
+    "totalLongevity": 72.33,
+    "womenToMen": "99.12%"
+  },
+  {
+    "jobtitle": "Pol Data Tech",
+    "femaleRate": 24.85,
+    "femaleLongevity": 106.1,
+    "maleRate": 25.06,
+    "maleLongevity": 69,
+    "totalRate": 24.87,
+    "totalLongevity": 102.87,
+    "womenToMen": "99.18%"
+  },
+  {
+    "jobtitle": "Pol Data Tech,Sr",
+    "femaleRate": 26.55,
+    "femaleLongevity": 152,
+    "maleRate": 26.55,
+    "maleLongevity": 59,
+    "totalRate": 26.55,
+    "totalLongevity": 138.71,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Pol Lieut",
+    "femaleRate": 62.84,
+    "femaleLongevity": 90,
+    "maleRate": 65.36,
+    "maleLongevity": 99,
+    "totalRate": 65.11,
+    "totalLongevity": 98.12,
+    "womenToMen": "96.15%"
+  },
+  {
+    "jobtitle": "Pol Ofcr",
+    "femaleRate": 39.14,
+    "femaleLongevity": 39.87,
+    "maleRate": 38.45,
+    "maleLongevity": 36.59,
+    "totalRate": 38.52,
+    "totalLongevity": 36.91,
+    "womenToMen": "101.78%"
+  },
+  {
+    "jobtitle": "Pol Ofcr- Student",
+    "femaleRate": 34.09,
+    "femaleLongevity": 1.44,
+    "maleRate": 33.36,
+    "maleLongevity": 5.39,
+    "totalRate": 33.53,
+    "totalLongevity": 4.43,
+    "womenToMen": "102.19%"
+  },
+  {
+    "jobtitle": "Pol Ofcr-Academy Instructor",
+    "femaleRate": 45.57,
+    "femaleLongevity": 124,
+    "maleRate": 44.44,
+    "maleLongevity": 87.6,
+    "totalRate": 44.51,
+    "totalLongevity": 89.88,
+    "womenToMen": "102.54%"
+  },
+  {
+    "jobtitle": "Pol Ofcr-Canine",
+    "femaleRate": 45.98,
+    "femaleLongevity": 68,
+    "maleRate": 45.47,
+    "maleLongevity": 86.5,
+    "totalRate": 45.51,
+    "totalLongevity": 85.08,
+    "womenToMen": "101.12%"
+  },
+  {
+    "jobtitle": "Pol Ofcr-Detective",
+    "femaleRate": 44.55,
+    "femaleLongevity": 110.1,
+    "maleRate": 44.96,
+    "maleLongevity": 120.83,
+    "totalRate": 44.85,
+    "totalLongevity": 117.99,
+    "womenToMen": "99.10%"
+  },
+  {
+    "jobtitle": "Pol Ofcr-Detective-Bomb Squad",
+    "femaleRate": 47.18,
+    "femaleLongevity": 112,
+    "maleRate": 47.5,
+    "maleLongevity": 150.6,
+    "totalRate": 47.45,
+    "totalLongevity": 144.17,
+    "womenToMen": "99.32%"
+  },
+  {
+    "jobtitle": "Pol Ofcr-Detective-Homicide",
+    "femaleRate": 45.17,
+    "femaleLongevity": 57,
+    "maleRate": 46.33,
+    "maleLongevity": 113.75,
+    "totalRate": 46.2,
+    "totalLongevity": 107.44,
+    "womenToMen": "97.51%"
+  },
+  {
+    "jobtitle": "Pol Ofcr-DWI-Am/Pm Enf",
+    "femaleRate": 44.35,
+    "femaleLongevity": 92.25,
+    "maleRate": 44.22,
+    "maleLongevity": 121,
+    "totalRate": 44.25,
+    "totalLongevity": 114.24,
+    "womenToMen": "100.31%"
+  },
+  {
+    "jobtitle": "Pol Ofcr-Hostage Neg-Patrl",
+    "femaleRate": 45.17,
+    "femaleLongevity": 124.5,
+    "maleRate": 45.32,
+    "maleLongevity": 81.64,
+    "totalRate": 45.29,
+    "totalLongevity": 88.23,
+    "womenToMen": "99.68%"
+  },
+  {
+    "jobtitle": "Pol Ofcr-Motorcycle",
+    "femaleRate": 45.57,
+    "femaleLongevity": 109,
+    "maleRate": 45.2,
+    "maleLongevity": 168.46,
+    "totalRate": 45.21,
+    "totalLongevity": 166.41,
+    "womenToMen": "100.83%"
+  },
+  {
+    "jobtitle": "Pol Ofcr-Non Patrol",
+    "femaleRate": 44.15,
+    "femaleLongevity": 45.5,
+    "maleRate": 43.55,
+    "maleLongevity": 40.75,
+    "totalRate": 43.75,
+    "totalLongevity": 42.33,
+    "womenToMen": "101.38%"
+  },
+  {
+    "jobtitle": "Pol Ofcr-Patrl",
+    "femaleRate": 43.91,
+    "femaleLongevity": 99.37,
+    "maleRate": 44.14,
+    "maleLongevity": 116.31,
+    "totalRate": 44.11,
+    "totalLongevity": 113.87,
+    "womenToMen": "99.49%"
+  },
+  {
+    "jobtitle": "Pol Recruit",
+    "femaleRate": 25.98,
+    "femaleLongevity": 1,
+    "maleRate": 25.98,
+    "maleLongevity": 2,
+    "totalRate": 25.98,
+    "totalLongevity": 1.93,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Pol Sgt-Detective",
+    "femaleRate": 51.53,
+    "femaleLongevity": 72.63,
+    "maleRate": 51.52,
+    "maleLongevity": 76.93,
+    "totalRate": 51.52,
+    "totalLongevity": 76.03,
+    "womenToMen": "100.01%"
+  },
+  {
+    "jobtitle": "Pol Sgt-Patrl",
+    "femaleRate": 51.98,
+    "femaleLongevity": 96.88,
+    "maleRate": 52.14,
+    "maleLongevity": 89.03,
+    "totalRate": 52.13,
+    "totalLongevity": 89.81,
+    "womenToMen": "99.69%"
+  },
+  {
+    "jobtitle": "Pool Maint Wkr",
+    "femaleRate": 25.54,
+    "femaleLongevity": 102.33,
+    "maleRate": 25.54,
+    "maleLongevity": 202.17,
+    "totalRate": 25.54,
+    "totalLongevity": 168.89,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Prgm Intake Rep",
+    "femaleRate": 26.46,
+    "femaleLongevity": 73.18,
+    "maleRate": 26.42,
+    "maleLongevity": 112.8,
+    "totalRate": 26.45,
+    "totalLongevity": 82.18,
+    "womenToMen": "100.13%"
+  },
+  {
+    "jobtitle": "Prjt Fund&Agreemts Coord",
+    "femaleRate": 35.85,
+    "femaleLongevity": 113,
+    "maleRate": 36.3,
+    "maleLongevity": 306,
+    "totalRate": 35.96,
+    "totalLongevity": 161.25,
+    "womenToMen": "98.75%"
+  },
+  {
+    "jobtitle": "Prjt Fund&Agreemts Coord,Sr",
+    "femaleRate": 39.96,
+    "femaleLongevity": 66,
+    "maleRate": 39.96,
+    "maleLongevity": 85.67,
+    "totalRate": 39.96,
+    "totalLongevity": 75.83,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Prob Counslr I",
+    "femaleRate": 36.07,
+    "femaleLongevity": 140.75,
+    "maleRate": 35.07,
+    "maleLongevity": 92,
+    "totalRate": 35.64,
+    "totalLongevity": 119.86,
+    "womenToMen": "102.85%"
+  },
+  {
+    "jobtitle": "Prob Counslr II",
+    "femaleRate": 39.36,
+    "femaleLongevity": 78.33,
+    "maleRate": 38.76,
+    "maleLongevity": 58.71,
+    "totalRate": 38.94,
+    "totalLongevity": 64.6,
+    "womenToMen": "101.54%"
+  },
+  {
+    "jobtitle": "Prob Counslr-Asg Pers Recog",
+    "femaleRate": 34.23,
+    "femaleLongevity": 81.8,
+    "maleRate": 34.99,
+    "maleLongevity": 229,
+    "totalRate": 34.52,
+    "totalLongevity": 137,
+    "womenToMen": "97.83%"
+  },
+  {
+    "jobtitle": "Property Mgmt Spec",
+    "femaleRate": 45.51,
+    "femaleLongevity": 89.33,
+    "maleRate": 44.71,
+    "maleLongevity": 51,
+    "totalRate": 45.19,
+    "totalLongevity": 74,
+    "womenToMen": "101.79%"
+  },
+  {
+    "jobtitle": "Prot&Cntrl Elctn II",
+    "femaleRate": 48.54,
+    "femaleLongevity": 136,
+    "maleRate": 48.54,
+    "maleLongevity": 79.67,
+    "totalRate": 48.54,
+    "totalLongevity": 85.3,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Publc Ed Prgm Spec",
+    "femaleRate": 31.16,
+    "femaleLongevity": 114.43,
+    "maleRate": 31.16,
+    "maleLongevity": 63,
+    "totalRate": 31.16,
+    "totalLongevity": 99,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Publc Ed Prgm Supv",
+    "femaleRate": 39.2,
+    "femaleLongevity": 51,
+    "maleRate": 39.2,
+    "maleLongevity": 76,
+    "totalRate": 39.2,
+    "totalLongevity": 63.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Publc Relations Spec,Sr",
+    "femaleRate": 35.66,
+    "femaleLongevity": 73.5,
+    "maleRate": 36.07,
+    "maleLongevity": 63,
+    "totalRate": 35.84,
+    "totalLongevity": 69,
+    "womenToMen": "98.85%"
+  },
+  {
+    "jobtitle": "Pwr Anlyst,Sr",
+    "femaleRate": 43.94,
+    "femaleLongevity": 23.8,
+    "maleRate": 45.25,
+    "maleLongevity": 92,
+    "totalRate": 44.32,
+    "totalLongevity": 43.29,
+    "womenToMen": "97.11%"
+  },
+  {
+    "jobtitle": "Pwr Dispatcher",
+    "femaleRate": 49.84,
+    "femaleLongevity": 85,
+    "maleRate": 49.63,
+    "maleLongevity": 67.88,
+    "totalRate": 49.67,
+    "totalLongevity": 71.3,
+    "womenToMen": "100.42%"
+  },
+  {
+    "jobtitle": "Pwr Dispatcher,Asst",
+    "femaleRate": 40.36,
+    "femaleLongevity": 7,
+    "maleRate": 39.33,
+    "maleLongevity": 2,
+    "totalRate": 39.59,
+    "totalLongevity": 3.25,
+    "womenToMen": "102.63%"
+  },
+  {
+    "jobtitle": "Pwr Marketer",
+    "femaleRate": 57.53,
+    "femaleLongevity": 114.67,
+    "maleRate": 51.83,
+    "maleLongevity": 89.4,
+    "totalRate": 52.78,
+    "totalLongevity": 93.61,
+    "womenToMen": "111%"
+  },
+  {
+    "jobtitle": "Pwr Structs Mechanic",
+    "femaleRate": 35.88,
+    "femaleLongevity": 22.5,
+    "maleRate": 35.88,
+    "maleLongevity": 126.82,
+    "totalRate": 35.88,
+    "totalLongevity": 110.77,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Pwr Structs Mechanic CC",
+    "femaleRate": 41.14,
+    "femaleLongevity": 123,
+    "maleRate": 41.14,
+    "maleLongevity": 53.2,
+    "totalRate": 41.14,
+    "totalLongevity": 64.83,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Radio Dispatcher",
+    "femaleRate": 24.35,
+    "femaleLongevity": 113.22,
+    "maleRate": 24.35,
+    "maleLongevity": 56,
+    "totalRate": 24.35,
+    "totalLongevity": 102.82,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Real Property Agent,Sr",
+    "femaleRate": 44.84,
+    "femaleLongevity": 106.78,
+    "maleRate": 45.02,
+    "maleLongevity": 95.67,
+    "totalRate": 44.93,
+    "totalLongevity": 101.22,
+    "womenToMen": "99.61%"
+  },
+  {
+    "jobtitle": "Rec Attendant",
+    "femaleRate": 16.76,
+    "femaleLongevity": 81.65,
+    "maleRate": 16.45,
+    "maleLongevity": 112.86,
+    "totalRate": 16.6,
+    "totalLongevity": 97.63,
+    "womenToMen": "101.87%"
+  },
+  {
+    "jobtitle": "Rec Cntr Coord",
+    "femaleRate": 32.2,
+    "femaleLongevity": 94.67,
+    "maleRate": 31.93,
+    "maleLongevity": 77.88,
+    "totalRate": 32.11,
+    "totalLongevity": 88.83,
+    "womenToMen": "100.87%"
+  },
+  {
+    "jobtitle": "Rec Cntr Coord,Asst",
+    "femaleRate": 29.54,
+    "femaleLongevity": 126.83,
+    "maleRate": 29.54,
+    "maleLongevity": 111.75,
+    "totalRate": 29.54,
+    "totalLongevity": 120.8,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Rec Leader",
+    "femaleRate": 23.82,
+    "femaleLongevity": 64.94,
+    "maleRate": 24.28,
+    "maleLongevity": 80.3,
+    "totalRate": 24.07,
+    "totalLongevity": 73.56,
+    "womenToMen": "98.10%"
+  },
+  {
+    "jobtitle": "Rec Prgm Coord",
+    "femaleRate": 33.69,
+    "femaleLongevity": 48.5,
+    "maleRate": 32.95,
+    "maleLongevity": 74.8,
+    "totalRate": 33.16,
+    "totalLongevity": 67.29,
+    "womenToMen": "102.25%"
+  },
+  {
+    "jobtitle": "Rec Prgm Coord,Sr",
+    "femaleRate": 36.3,
+    "femaleLongevity": 50,
+    "maleRate": 36.3,
+    "maleLongevity": 56.17,
+    "totalRate": 36.3,
+    "totalLongevity": 54.63,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Rec Prgm Spec",
+    "femaleRate": 28.39,
+    "femaleLongevity": 90.39,
+    "maleRate": 28.03,
+    "maleLongevity": 42.2,
+    "totalRate": 28.31,
+    "totalLongevity": 79.91,
+    "womenToMen": "101.29%"
+  },
+  {
+    "jobtitle": "Rec Prgm Spec,Sr",
+    "femaleRate": 31.76,
+    "femaleLongevity": 129,
+    "maleRate": 31.76,
+    "maleLongevity": 131,
+    "totalRate": 31.76,
+    "totalLongevity": 129.8,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Registered Nurse Consultant",
+    "femaleRate": 36.3,
+    "femaleLongevity": 60.25,
+    "maleRate": 36.3,
+    "maleLongevity": 1,
+    "totalRate": 36.3,
+    "totalLongevity": 48.4,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Res&Eval Aide",
+    "femaleRate": 22.77,
+    "femaleLongevity": 38,
+    "maleRate": 21.78,
+    "maleLongevity": 4.5,
+    "totalRate": 22.44,
+    "totalLongevity": 26.83,
+    "womenToMen": "104.55%"
+  },
+  {
+    "jobtitle": "Res&Eval Asst",
+    "femaleRate": 29.41,
+    "femaleLongevity": 141.33,
+    "maleRate": 29.41,
+    "maleLongevity": 99,
+    "totalRate": 29.41,
+    "totalLongevity": 130.75,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Retirement Spec",
+    "femaleRate": 24.97,
+    "femaleLongevity": 16.33,
+    "maleRate": 25.28,
+    "maleLongevity": 15,
+    "totalRate": 25.05,
+    "totalLongevity": 16,
+    "womenToMen": "98.79%"
+  },
+  {
+    "jobtitle": "Rights-Of-Way Maint Wkr",
+    "femaleRate": 27.52,
+    "femaleLongevity": 216,
+    "maleRate": 27.52,
+    "maleLongevity": 144.43,
+    "totalRate": 27.52,
+    "totalLongevity": 153.38,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Scale Attendant",
+    "femaleRate": 22.78,
+    "femaleLongevity": 78.5,
+    "maleRate": 22.78,
+    "maleLongevity": 88.5,
+    "totalRate": 22.78,
+    "totalLongevity": 86,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Security Ofcr",
+    "femaleRate": 22.81,
+    "femaleLongevity": 114,
+    "maleRate": 22.81,
+    "maleLongevity": 137.93,
+    "totalRate": 22.81,
+    "totalLongevity": 136.33,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Security Prgms Spec",
+    "femaleRate": 34.94,
+    "femaleLongevity": 60,
+    "maleRate": 34.94,
+    "maleLongevity": 92,
+    "totalRate": 34.94,
+    "totalLongevity": 81.33,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Sfty&Hlth Spec",
+    "femaleRate": 39.2,
+    "femaleLongevity": 169,
+    "maleRate": 39.2,
+    "maleLongevity": 64,
+    "totalRate": 39.2,
+    "totalLongevity": 116.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Sfty&Hlth Spec,Sr",
+    "femaleRate": 42,
+    "femaleLongevity": 85.83,
+    "maleRate": 40.9,
+    "maleLongevity": 46.78,
+    "totalRate": 41.34,
+    "totalLongevity": 62.4,
+    "womenToMen": "102.69%"
+  },
+  {
+    "jobtitle": "Sfty&Hlth Supv",
+    "femaleRate": 45.51,
+    "femaleLongevity": 16,
+    "maleRate": 43.88,
+    "maleLongevity": 21.5,
+    "totalRate": 44.42,
+    "totalLongevity": 19.67,
+    "womenToMen": "103.71%"
+  },
+  {
+    "jobtitle": "Signal Elctn CC",
+    "femaleRate": 46.06,
+    "femaleLongevity": 239,
+    "maleRate": 46.06,
+    "maleLongevity": 37,
+    "totalRate": 46.06,
+    "totalLongevity": 138,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Signal Elctn V",
+    "femaleRate": 43.41,
+    "femaleLongevity": 62,
+    "maleRate": 43.41,
+    "maleLongevity": 119.14,
+    "totalRate": 43.41,
+    "totalLongevity": 112,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Site Dev Insp",
+    "femaleRate": 40.74,
+    "femaleLongevity": 91,
+    "maleRate": 39.63,
+    "maleLongevity": 69.25,
+    "totalRate": 40,
+    "totalLongevity": 76.5,
+    "womenToMen": "102.80%"
+  },
+  {
+    "jobtitle": "Social Svcs Aide",
+    "femaleRate": 19.53,
+    "femaleLongevity": 10.67,
+    "maleRate": 19.97,
+    "maleLongevity": 17.33,
+    "totalRate": 19.67,
+    "totalLongevity": 12.89,
+    "womenToMen": "97.80%"
+  },
+  {
+    "jobtitle": "Solid Wst Fld Rep II",
+    "femaleRate": 34.1,
+    "femaleLongevity": 46,
+    "maleRate": 34.1,
+    "maleLongevity": 91.33,
+    "totalRate": 34.1,
+    "totalLongevity": 80,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Solid Wst Fld Rep,Lead",
+    "femaleRate": 37.06,
+    "femaleLongevity": 3,
+    "maleRate": 37.06,
+    "maleLongevity": 80.5,
+    "totalRate": 37.06,
+    "totalLongevity": 65,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Sound&Video Equip Tech",
+    "femaleRate": 32.01,
+    "femaleLongevity": 119,
+    "maleRate": 32.01,
+    "maleLongevity": 110.17,
+    "totalRate": 32.01,
+    "totalLongevity": 111.43,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Stage Tech,Lead",
+    "femaleRate": 30.22,
+    "femaleLongevity": 184.67,
+    "maleRate": 30.05,
+    "maleLongevity": 85.86,
+    "totalRate": 30.1,
+    "totalLongevity": 115.5,
+    "womenToMen": "100.56%"
+  },
+  {
+    "jobtitle": "StratAdvsr-Audit",
+    "femaleRate": 52.4,
+    "femaleLongevity": 99.14,
+    "maleRate": 47.52,
+    "maleLongevity": 10,
+    "totalRate": 51.79,
+    "totalLongevity": 88,
+    "womenToMen": "110.27%"
+  },
+  {
+    "jobtitle": "StratAdvsr-Legislative",
+    "femaleRate": 49.03,
+    "femaleLongevity": 116.6,
+    "maleRate": 47.99,
+    "maleLongevity": 87.77,
+    "totalRate": 48.44,
+    "totalLongevity": 100.3,
+    "womenToMen": "102.17%"
+  },
+  {
+    "jobtitle": "StratAdvsr1,CSPI&P",
+    "femaleRate": 41.76,
+    "femaleLongevity": 52.4,
+    "maleRate": 45.64,
+    "maleLongevity": 61.75,
+    "totalRate": 42.87,
+    "totalLongevity": 55.07,
+    "womenToMen": "91.49%"
+  },
+  {
+    "jobtitle": "StratAdvsr1,Engrng&Plans Rev",
+    "femaleRate": 41.61,
+    "femaleLongevity": 5,
+    "maleRate": 46.35,
+    "maleLongevity": 59,
+    "totalRate": 44.77,
+    "totalLongevity": 41,
+    "womenToMen": "89.77%"
+  },
+  {
+    "jobtitle": "StratAdvsr1,Exempt",
+    "femaleRate": 40.03,
+    "femaleLongevity": 35.25,
+    "maleRate": 41.3,
+    "maleLongevity": 25.6,
+    "totalRate": 40.4,
+    "totalLongevity": 32.41,
+    "womenToMen": "96.92%"
+  },
+  {
+    "jobtitle": "StratAdvsr1,Fin,Bud,&Actg",
+    "femaleRate": 46.47,
+    "femaleLongevity": 32.5,
+    "maleRate": 42.61,
+    "maleLongevity": 53,
+    "totalRate": 44.15,
+    "totalLongevity": 44.8,
+    "womenToMen": "109.05%"
+  },
+  {
+    "jobtitle": "StratAdvsr1,General Govt",
+    "femaleRate": 42.34,
+    "femaleLongevity": 66.89,
+    "maleRate": 44.95,
+    "maleLongevity": 46.45,
+    "totalRate": 43.78,
+    "totalLongevity": 55.65,
+    "womenToMen": "94.18%"
+  },
+  {
+    "jobtitle": "StratAdvsr1,Human Svcs",
+    "femaleRate": 41.72,
+    "femaleLongevity": 80,
+    "maleRate": 37.36,
+    "maleLongevity": 55,
+    "totalRate": 40.63,
+    "totalLongevity": 73.75,
+    "womenToMen": "111.66%"
+  },
+  {
+    "jobtitle": "StratAdvsr1,Parks&Rec",
+    "femaleRate": 39.76,
+    "femaleLongevity": 68.33,
+    "maleRate": 42.38,
+    "maleLongevity": 114,
+    "totalRate": 40.81,
+    "totalLongevity": 86.6,
+    "womenToMen": "93.83%"
+  },
+  {
+    "jobtitle": "StratAdvsr1,Utils",
+    "femaleRate": 45.13,
+    "femaleLongevity": 59,
+    "maleRate": 45.37,
+    "maleLongevity": 64.57,
+    "totalRate": 45.27,
+    "totalLongevity": 62.25,
+    "womenToMen": "99.47%"
+  },
+  {
+    "jobtitle": "StratAdvsr1,Utils-BU",
+    "femaleRate": 43.01,
+    "femaleLongevity": 50,
+    "maleRate": 48,
+    "maleLongevity": 59,
+    "totalRate": 44.67,
+    "totalLongevity": 53,
+    "womenToMen": "89.62%"
+  },
+  {
+    "jobtitle": "StratAdvsr2,CL&PS",
+    "femaleRate": 46.01,
+    "femaleLongevity": 63.2,
+    "maleRate": 49.6,
+    "maleLongevity": 26,
+    "totalRate": 47.61,
+    "totalLongevity": 46.67,
+    "womenToMen": "92.76%"
+  },
+  {
+    "jobtitle": "StratAdvsr2,CSPI&P",
+    "femaleRate": 45.3,
+    "femaleLongevity": 51,
+    "maleRate": 47,
+    "maleLongevity": 6,
+    "totalRate": 45.98,
+    "totalLongevity": 33,
+    "womenToMen": "96.38%"
+  },
+  {
+    "jobtitle": "StratAdvsr2,Engrng&Plans Rev",
+    "femaleRate": 49.43,
+    "femaleLongevity": 42.29,
+    "maleRate": 50.84,
+    "maleLongevity": 76.47,
+    "totalRate": 50.39,
+    "totalLongevity": 65.59,
+    "womenToMen": "97.24%"
+  },
+  {
+    "jobtitle": "StratAdvsr2,Exempt",
+    "femaleRate": 46.08,
+    "femaleLongevity": 38.15,
+    "maleRate": 45.83,
+    "maleLongevity": 34.61,
+    "totalRate": 45.99,
+    "totalLongevity": 36.81,
+    "womenToMen": "100.56%"
+  },
+  {
+    "jobtitle": "StratAdvsr2,Exempt-BU",
+    "femaleRate": 46.3,
+    "femaleLongevity": 58,
+    "maleRate": 44.98,
+    "maleLongevity": 160,
+    "totalRate": 45.64,
+    "totalLongevity": 109,
+    "womenToMen": "102.94%"
+  },
+  {
+    "jobtitle": "StratAdvsr2,Fin,Bud,&Actg",
+    "femaleRate": 48.77,
+    "femaleLongevity": 39,
+    "maleRate": 46.12,
+    "maleLongevity": 38,
+    "totalRate": 48.33,
+    "totalLongevity": 38.83,
+    "womenToMen": "105.73%"
+  },
+  {
+    "jobtitle": "StratAdvsr2,Fin,Bud,&Actg-BU",
+    "femaleRate": 43.16,
+    "femaleLongevity": 96,
+    "maleRate": 49.39,
+    "maleLongevity": 52.6,
+    "totalRate": 47.61,
+    "totalLongevity": 65,
+    "womenToMen": "87.38%"
+  },
+  {
+    "jobtitle": "StratAdvsr2,General Govt",
+    "femaleRate": 48.09,
+    "femaleLongevity": 62.28,
+    "maleRate": 49.61,
+    "maleLongevity": 62.3,
+    "totalRate": 48.82,
+    "totalLongevity": 62.29,
+    "womenToMen": "96.93%"
+  },
+  {
+    "jobtitle": "StratAdvsr2,General Govt-BU",
+    "femaleRate": 50.21,
+    "femaleLongevity": 53,
+    "maleRate": 48.74,
+    "maleLongevity": 82.75,
+    "totalRate": 49.48,
+    "totalLongevity": 67.88,
+    "womenToMen": "103.01%"
+  },
+  {
+    "jobtitle": "StratAdvsr2,Info Technol",
+    "femaleRate": 47.52,
+    "femaleLongevity": 3,
+    "maleRate": 49.89,
+    "maleLongevity": 2,
+    "totalRate": 48.71,
+    "totalLongevity": 2.5,
+    "womenToMen": "95.25%"
+  },
+  {
+    "jobtitle": "StratAdvsr2,PC&RM",
+    "femaleRate": 46.41,
+    "femaleLongevity": 48.33,
+    "maleRate": 47.5,
+    "maleLongevity": 64,
+    "totalRate": 46.68,
+    "totalLongevity": 52.25,
+    "womenToMen": "97.69%"
+  },
+  {
+    "jobtitle": "StratAdvsr2,Utils",
+    "femaleRate": 50.09,
+    "femaleLongevity": 69.8,
+    "maleRate": 50.46,
+    "maleLongevity": 77.64,
+    "totalRate": 50.28,
+    "totalLongevity": 73.9,
+    "womenToMen": "99.27%"
+  },
+  {
+    "jobtitle": "StratAdvsr2,Utils-BU",
+    "femaleRate": 50.02,
+    "femaleLongevity": 37.56,
+    "maleRate": 50.57,
+    "maleLongevity": 66.62,
+    "totalRate": 50.35,
+    "totalLongevity": 54.73,
+    "womenToMen": "98.90%"
+  },
+  {
+    "jobtitle": "StratAdvsr3,Exempt",
+    "femaleRate": 55.65,
+    "femaleLongevity": 50.47,
+    "maleRate": 55.11,
+    "maleLongevity": 39.94,
+    "totalRate": 55.37,
+    "totalLongevity": 45.06,
+    "womenToMen": "100.99%"
+  },
+  {
+    "jobtitle": "StratAdvsr3,General Govt",
+    "femaleRate": 52.58,
+    "femaleLongevity": 61.5,
+    "maleRate": 55.38,
+    "maleLongevity": 65.57,
+    "totalRate": 54.09,
+    "totalLongevity": 63.69,
+    "womenToMen": "94.95%"
+  },
+  {
+    "jobtitle": "StratAdvsr3,Utils",
+    "femaleRate": 58.23,
+    "femaleLongevity": 72.5,
+    "maleRate": 50.63,
+    "maleLongevity": 141,
+    "totalRate": 55.7,
+    "totalLongevity": 95.33,
+    "womenToMen": "115%"
+  },
+  {
+    "jobtitle": "StratAdvsr3,Utils-BU",
+    "femaleRate": 55.58,
+    "femaleLongevity": 24,
+    "maleRate": 55.81,
+    "maleLongevity": 49.67,
+    "totalRate": 55.75,
+    "totalLongevity": 43.25,
+    "womenToMen": "99.59%"
+  },
+  {
+    "jobtitle": "Street Maint CC",
+    "femaleRate": 33.38,
+    "femaleLongevity": 54,
+    "maleRate": 33.04,
+    "maleLongevity": 45,
+    "totalRate": 33.11,
+    "totalLongevity": 46.8,
+    "womenToMen": "101.04%"
+  },
+  {
+    "jobtitle": "Street Maint Supv",
+    "femaleRate": 36,
+    "femaleLongevity": 58,
+    "maleRate": 36,
+    "maleLongevity": 70,
+    "totalRate": 36,
+    "totalLongevity": 62,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Street Paving CC",
+    "femaleRate": 33.93,
+    "femaleLongevity": 38,
+    "maleRate": 33.93,
+    "maleLongevity": 45.17,
+    "totalRate": 33.93,
+    "totalLongevity": 44.14,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Strucl Iron Wkr",
+    "femaleRate": 41.14,
+    "femaleLongevity": 19,
+    "maleRate": 40.92,
+    "maleLongevity": 161.89,
+    "totalRate": 40.95,
+    "totalLongevity": 147.6,
+    "womenToMen": "100.53%"
+  },
+  {
+    "jobtitle": "Strucl Plans Engr",
+    "femaleRate": 45.69,
+    "femaleLongevity": 0,
+    "maleRate": 45.69,
+    "maleLongevity": 164.4,
+    "totalRate": 45.69,
+    "totalLongevity": 137,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Strucl Plans Engr Supv",
+    "femaleRate": 53.39,
+    "femaleLongevity": 7,
+    "maleRate": 53.39,
+    "maleLongevity": 156,
+    "totalRate": 53.39,
+    "totalLongevity": 81.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Strucl Plans Engr,Sr",
+    "femaleRate": 47.44,
+    "femaleLongevity": 32,
+    "maleRate": 50.07,
+    "maleLongevity": 67.5,
+    "totalRate": 48.75,
+    "totalLongevity": 49.75,
+    "womenToMen": "94.74%"
+  },
+  {
+    "jobtitle": "Strucl Pntr",
+    "femaleRate": 31.34,
+    "femaleLongevity": 347,
+    "maleRate": 31.34,
+    "maleLongevity": 50.3,
+    "totalRate": 31.34,
+    "totalLongevity": 77.27,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Strucl Pntr CC",
+    "femaleRate": 36.02,
+    "femaleLongevity": 82,
+    "maleRate": 36.02,
+    "maleLongevity": 15,
+    "totalRate": 36.02,
+    "totalLongevity": 48.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Supply&Inventory Tech",
+    "femaleRate": 25.28,
+    "femaleLongevity": 154,
+    "maleRate": 25.28,
+    "maleLongevity": 55,
+    "totalRate": 25.28,
+    "totalLongevity": 104.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Tax Auditor",
+    "femaleRate": 34.33,
+    "femaleLongevity": 58.25,
+    "maleRate": 34.31,
+    "maleLongevity": 44.8,
+    "totalRate": 34.32,
+    "totalLongevity": 50.78,
+    "womenToMen": "100.05%"
+  },
+  {
+    "jobtitle": "Traffic Marking Lead Wkr",
+    "femaleRate": 27.52,
+    "femaleLongevity": 32,
+    "maleRate": 27.52,
+    "maleLongevity": 58.6,
+    "totalRate": 27.52,
+    "totalLongevity": 54.17,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Trans Line CC",
+    "femaleRate": 47.67,
+    "femaleLongevity": 2,
+    "maleRate": 47.67,
+    "maleLongevity": 151,
+    "totalRate": 47.67,
+    "totalLongevity": 76.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Transmission CC-WDM II",
+    "femaleRate": 37.4,
+    "femaleLongevity": 7,
+    "maleRate": 38.09,
+    "maleLongevity": 39,
+    "totalRate": 37.86,
+    "totalLongevity": 28.33,
+    "womenToMen": "98.20%"
+  },
+  {
+    "jobtitle": "Transp Plnr,Assoc",
+    "femaleRate": 39.96,
+    "femaleLongevity": 105.67,
+    "maleRate": 38.5,
+    "maleLongevity": 45.67,
+    "totalRate": 39.23,
+    "totalLongevity": 75.67,
+    "womenToMen": "103.80%"
+  },
+  {
+    "jobtitle": "Transp Plnr,Asst",
+    "femaleRate": 30.55,
+    "femaleLongevity": 44,
+    "maleRate": 30.55,
+    "maleLongevity": 154,
+    "totalRate": 30.55,
+    "totalLongevity": 99,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Transp Plnr,Sr",
+    "femaleRate": 43.46,
+    "femaleLongevity": 33.4,
+    "maleRate": 42.85,
+    "maleLongevity": 80.7,
+    "totalRate": 43.05,
+    "totalLongevity": 64.93,
+    "womenToMen": "101.43%"
+  },
+  {
+    "jobtitle": "Treasury Cashier",
+    "femaleRate": 31.51,
+    "femaleLongevity": 98.33,
+    "maleRate": 28.88,
+    "maleLongevity": 7.5,
+    "totalRate": 30.46,
+    "totalLongevity": 62,
+    "womenToMen": "109.11%"
+  },
+  {
+    "jobtitle": "Trng&Ed Coord",
+    "femaleRate": 33.69,
+    "femaleLongevity": 82.5,
+    "maleRate": 33.04,
+    "maleLongevity": 84.5,
+    "totalRate": 33.53,
+    "totalLongevity": 83,
+    "womenToMen": "101.97%"
+  },
+  {
+    "jobtitle": "Trng&Ed Coord,Sr",
+    "femaleRate": 35.74,
+    "femaleLongevity": 63,
+    "maleRate": 33.73,
+    "maleLongevity": 77,
+    "totalRate": 35.29,
+    "totalLongevity": 66.11,
+    "womenToMen": "105.96%"
+  },
+  {
+    "jobtitle": "Truck Drvr",
+    "femaleRate": 27.58,
+    "femaleLongevity": 68.5,
+    "maleRate": 27.49,
+    "maleLongevity": 108.33,
+    "totalRate": 27.49,
+    "totalLongevity": 106.24,
+    "womenToMen": "100.33%"
+  },
+  {
+    "jobtitle": "Truck Drvr,Heavy",
+    "femaleRate": 29,
+    "femaleLongevity": 206.86,
+    "maleRate": 28.93,
+    "maleLongevity": 103.88,
+    "totalRate": 28.94,
+    "totalLongevity": 121.46,
+    "womenToMen": "100.23%"
+  },
+  {
+    "jobtitle": "Util Act Rep I",
+    "femaleRate": 26.81,
+    "femaleLongevity": 109.29,
+    "maleRate": 26.92,
+    "maleLongevity": 80,
+    "totalRate": 26.84,
+    "totalLongevity": 100.68,
+    "womenToMen": "99.61%"
+  },
+  {
+    "jobtitle": "Util Act Rep II",
+    "femaleRate": 29.51,
+    "femaleLongevity": 109,
+    "maleRate": 29.56,
+    "maleLongevity": 75.67,
+    "totalRate": 29.52,
+    "totalLongevity": 105.15,
+    "womenToMen": "99.83%"
+  },
+  {
+    "jobtitle": "Util Act Rep Supv II",
+    "femaleRate": 36.3,
+    "femaleLongevity": 107,
+    "maleRate": 36.3,
+    "maleLongevity": 59,
+    "totalRate": 36.3,
+    "totalLongevity": 87.8,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Util Act Rep Trne",
+    "femaleRate": 21.2,
+    "femaleLongevity": 5.11,
+    "maleRate": 21.03,
+    "maleLongevity": 3.71,
+    "totalRate": 21.13,
+    "totalLongevity": 4.5,
+    "womenToMen": "100.78%"
+  },
+  {
+    "jobtitle": "Util Constr Wkr",
+    "femaleRate": 26.33,
+    "femaleLongevity": 110.5,
+    "maleRate": 26.71,
+    "maleLongevity": 54.8,
+    "totalRate": 26.68,
+    "totalLongevity": 58.93,
+    "womenToMen": "98.56%"
+  },
+  {
+    "jobtitle": "Util Laborer",
+    "femaleRate": 22.56,
+    "femaleLongevity": 123.33,
+    "maleRate": 22.56,
+    "maleLongevity": 116.31,
+    "totalRate": 22.56,
+    "totalLongevity": 116.97,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Util Svc Inspector",
+    "femaleRate": 34.74,
+    "femaleLongevity": 179,
+    "maleRate": 34.74,
+    "maleLongevity": 105.33,
+    "totalRate": 34.74,
+    "totalLongevity": 123.75,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Util Svc Inspector,Sr",
+    "femaleRate": 37.35,
+    "femaleLongevity": 98,
+    "maleRate": 37.35,
+    "maleLongevity": 114.5,
+    "totalRate": 37.35,
+    "totalLongevity": 109,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Util Svc Rep",
+    "femaleRate": 31.25,
+    "femaleLongevity": 78.36,
+    "maleRate": 32.07,
+    "maleLongevity": 98,
+    "totalRate": 31.47,
+    "totalLongevity": 83.6,
+    "womenToMen": "97.44%"
+  },
+  {
+    "jobtitle": "Victim Advocate",
+    "femaleRate": 30.31,
+    "femaleLongevity": 166.29,
+    "maleRate": 30.55,
+    "maleLongevity": 156.5,
+    "totalRate": 30.34,
+    "totalLongevity": 165.06,
+    "womenToMen": "99.23%"
+  },
+  {
+    "jobtitle": "Video Spec II",
+    "femaleRate": 36.3,
+    "femaleLongevity": 125.5,
+    "maleRate": 35.43,
+    "maleLongevity": 80.44,
+    "totalRate": 35.59,
+    "totalLongevity": 88.64,
+    "womenToMen": "102.46%"
+  },
+  {
+    "jobtitle": "Volunteer Prgms Coord",
+    "femaleRate": 29.99,
+    "femaleLongevity": 85.5,
+    "maleRate": 29.99,
+    "maleLongevity": 16,
+    "totalRate": 29.99,
+    "totalLongevity": 71.6,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Warehouser-BU",
+    "femaleRate": 24.08,
+    "femaleLongevity": 127.25,
+    "maleRate": 24.08,
+    "maleLongevity": 127.57,
+    "totalRate": 24.08,
+    "totalLongevity": 127.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Warehouser,Chief",
+    "femaleRate": 30.88,
+    "femaleLongevity": 85.5,
+    "maleRate": 30.88,
+    "maleLongevity": 138.67,
+    "totalRate": 30.88,
+    "totalLongevity": 129,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Warehouser,Sr-BU",
+    "femaleRate": 26.42,
+    "femaleLongevity": 104.42,
+    "maleRate": 26.4,
+    "maleLongevity": 118.95,
+    "totalRate": 26.41,
+    "totalLongevity": 113.5,
+    "womenToMen": "100.06%"
+  },
+  {
+    "jobtitle": "Wtr Meter Repairer,Sr",
+    "femaleRate": 27.67,
+    "femaleLongevity": 183,
+    "maleRate": 27.67,
+    "maleLongevity": 146.5,
+    "totalRate": 27.67,
+    "totalLongevity": 158.67,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Wtr Pipe Wkr",
+    "femaleRate": 30.18,
+    "femaleLongevity": 193.5,
+    "maleRate": 30.18,
+    "maleLongevity": 95.56,
+    "totalRate": 30.18,
+    "totalLongevity": 102.81,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Wtr Pipe Wkr Sr-WDM II",
+    "femaleRate": 33.64,
+    "femaleLongevity": 85,
+    "maleRate": 33.64,
+    "maleLongevity": 67.15,
+    "totalRate": 33.64,
+    "totalLongevity": 69.45,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Wtr Pipe Wkr-WDM I",
+    "femaleRate": 30.46,
+    "femaleLongevity": 88,
+    "maleRate": 29.94,
+    "maleLongevity": 24.87,
+    "totalRate": 29.97,
+    "totalLongevity": 28.81,
+    "womenToMen": "101.75%"
+  },
+  {
+    "jobtitle": "Wtr Quality Anlyst",
+    "femaleRate": 33.69,
+    "femaleLongevity": 117,
+    "maleRate": 33.69,
+    "maleLongevity": 125.67,
+    "totalRate": 33.69,
+    "totalLongevity": 121.33,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Wtr Quality Anlyst,Sr",
+    "femaleRate": 36.3,
+    "femaleLongevity": 125.5,
+    "maleRate": 36.3,
+    "maleLongevity": 57,
+    "totalRate": 36.3,
+    "totalLongevity": 102.67,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Wtr Quality Anlyst,Supv",
+    "femaleRate": 39.2,
+    "femaleLongevity": 90,
+    "maleRate": 39.2,
+    "maleLongevity": 91,
+    "totalRate": 39.2,
+    "totalLongevity": 90.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Wtr Syst Op,Sr",
+    "femaleRate": 41.72,
+    "femaleLongevity": 150,
+    "maleRate": 41.72,
+    "maleLongevity": 120,
+    "totalRate": 41.72,
+    "totalLongevity": 135,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Wtr Treatment CC",
+    "femaleRate": 36.3,
+    "femaleLongevity": 173,
+    "maleRate": 36.3,
+    "maleLongevity": 164,
+    "totalRate": 36.3,
+    "totalLongevity": 168.5,
+    "womenToMen": "100%"
+  },
+  {
+    "jobtitle": "Wtr Treatment Op-WDM I",
+    "femaleRate": 28.22,
+    "femaleLongevity": 88,
+    "maleRate": 27.52,
+    "maleLongevity": 61.67,
+    "totalRate": 27.8,
+    "totalLongevity": 72.2,
+    "womenToMen": "102.56%"
+  }
+]
+}
