@@ -14,18 +14,149 @@
   <link href="css/styles.css" rel="stylesheet">
   <link href="css/c3.css" rel="stylesheet" type="text/css">
   <link href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css" rel="stylesheet">
+  <link href="https://cdn.datatables.net/responsive/2.1.0/js/dataTables.responsive.min.js" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet">
 
 </head>
 
+<!--
+[x]Responsive Design (Bootstrap3)
+[?]Styles must follow one of the style guides linked below.
+[x]Use of Charts and Graphs (Suggest C3.js, or HighCharts highcharts.com/))
+[x]Featured Tabular Display of a subset of data (Top 10, Specific tag, or date)
+[x]Tabular Display of ALL data (suggest datatables.net/))
+[]Use of strong UI elements, (tabs, accordion, sliders, overlays, etc.)
+[x]Use of XML Data from data.gov
+ -->
+
 <body>
 
-  <h1>Seattle income by gender</h1>
+  <div class="container">
 
-  <div id="chart"></div>
+  <div class="row">
+    <div class="col-md-12 col-xs-12">
+      <h1>City of Seattle Wages: Comparison by Gender</h1>
+      <hr>
+    </div>
+  </div>
 
-  <table id="example" class="display" cellspacing="0" width="100%">
-        <thead>
-            <tr>
+  <br />
+
+  <div class="row">
+    <div class="col-md-12 col-xs-12">
+      <button class="accordion">Purpose (click to expand)</button>
+        <div class="panel">
+          <p>The statistic of <a href="http://www.iwpr.org/initiatives/pay-equity-and-discrimination">
+            women earning $0.78 for every dollar that men earn</a> is
+          true when it comes to comparing net, annual salary for women and men in the US.
+           However, there are many factors that contribute to this gap, and is not so simple
+         as a matter of women making less money for doing the exact same job as men, as
+         <a href="http://www.pay-equity.org/day.html">Equal Pay Day</a> will lead you to believe.
+       In this dataset, we are comparing the salaries of women and men in Seattle, and controlling for
+     differences in job title. We will explore other factors that may possibly contribute to the gender wage
+   gap.</p>
+        </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-12 col-xs-12">
+      <h3 class="graph-head">Male Average Hourly Rate vs. Female Average Hourly Rate</h3>
+    </div>
+    <div class="col-md-8 col-xs-12">
+      <div id="chart1"></div>
+    </div>
+    <div class="col-md-4 col-xs-12">
+      <div class="row">
+        <div class="col-md-12 col-xs-12">
+          <div class="row">
+            <div id="info1">
+              <h3>Total Male Hourly Rate: </h3>
+              <h2>$39.04</h2>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-xs-12">
+          <div class="row">
+            <div id="info2">
+              <h3>Total Female Hourly Rate: </h3>
+              <h2>$37.70</h2>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-12 col-xs-12">
+          <div class="row">
+            <div id="info3">
+              <h3>Ratio of Women's Hourly Rate to Men's Hourly Rate: </h3>
+              <h2>90.55%</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <br />
+
+  <p id="chart1-sub"><i>
+    *Information displayed only includes job titles that have both Male and Female
+    employees
+  </i></p>
+
+  <br />
+
+  <div class="row">
+
+    <div class="col-md-6 col-xs-12">
+      <div id="longevity1">
+        <h3>
+          Average Female longevity in current classification (in months)
+        </h3>
+        <div id="chart2"></div>
+      </div>
+    </div>
+
+    <div class="col-md-6 col-xs-12">
+      <div id="longevity2">
+        <h3>
+          Average Male longevity in current classification (in months)
+        </h3>
+        <div id="chart3"></div>
+      </div>
+    </div>
+
+  </div>
+
+  <br />
+
+  <div class="row">
+    <div class="col-md-12 col-xs-12">
+      <button class="accordion">Other factors: Longevity (click to expand)</button>
+        <div class="panel">
+          <p>As we can see, men in Seattle on average stay in the same job classification
+          for less time when compared to women. </p>
+        </div>
+    </div>
+  </div>
+
+  <div class="table-responsive">
+    <table id="example" class="display responsive nowrap table" cellspacing="0" width="100%">
+          <thead>
+              <tr>
+                  <th>Job Title</th>
+                  <th>Female Average Hourly Wage</th>
+                  <th>Female Average Longevity</th>
+                  <th>Male Average Hourly Wage</th>
+                  <th>Male Average Longevity</th>
+                  <th>Total Average Hourly Wage</th>
+                  <th>Total Average Longevity</th>
+                  <th>Percent Female Wage to Male Wage</th>
+              </tr>
+          </thead>
+          <tfoot>
+              <tr>
                 <th>Job Title</th>
                 <th>Female Average Hourly Wage</th>
                 <th>Female Average Longevity</th>
@@ -34,24 +165,25 @@
                 <th>Total Average Hourly Wage</th>
                 <th>Total Average Longevity</th>
                 <th>Percent Female Wage to Male Wage</th>
-            </tr>
-        </thead>
-        <tfoot>
-            <tr>
-              <th>Job Title</th>
-              <th>Female Average Hourly Wage</th>
-              <th>Female Average Longevity</th>
-              <th>Male Average Hourly Wage</th>
-              <th>Male Average Longevity</th>
-              <th>Total Average Hourly Wage</th>
-              <th>Total Average Longevity</th>
-              <th>Percent Female Wage to Male Wage</th>
-            </tr>
-        </tfoot>
-    </table>
+              </tr>
+          </tfoot>
+      </table>
+    </div>
+
+    <br />
+
+    <p><i>
+      Source:
+      <a href="https://catalog.data.gov/dataset/city-of-seattle-wages-comparison-by-gender-average-hourly-wage-by-age-353b2">
+      City of Seattle Wages: Comparison by Gender - Average Hourly Wage by Age
+      </a>
+    </i></p>
+
+  </container>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
   <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/responsive/2.1.0/js/dataTables.responsive.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
   <script src="js/d3.min.js" charset="utf-8"></script>
