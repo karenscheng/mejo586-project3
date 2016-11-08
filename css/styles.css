@@ -3,7 +3,7 @@ body{
   background-image: url("background.png");
 }
 
-#chart1, #chart2, #chart3, #info1, #info2, #info3{
+#chart1, #chart2, #info1, #info2, #info3{
   background-color: #ffffff;
   border-radius: 25px;
   padding: 20;
@@ -15,6 +15,10 @@ body{
   border-radius: 3px;
 }
 
+#chart2{
+  margin-bottom: 10px;
+}
+
 #info1, #info2, #info3{
   height: 100%;
   font-family: 'Lato', sans-serif;
@@ -24,7 +28,7 @@ body{
   margin-top: 15px;
 }
 
-#longevity1 h3, #longevity2 h3{
+#workday h3, #dataset{
   text-align: center;
   text-shadow: 2px 2px #BBB;
   color: white;
@@ -83,6 +87,7 @@ button.accordion {
     border: none;
     outline: none;
     transition: 0.4s;
+    margin-top: 10px;
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
@@ -95,7 +100,7 @@ div.panel {
     padding: 0 18px;
     background-color: white;
     display: none;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 /* The "show" class is added to the accordion panel when the user clicks on one of the buttons. This will show the panel content */
