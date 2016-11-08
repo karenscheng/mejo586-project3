@@ -21,16 +21,6 @@
 
 </head>
 
-<!--
-[x]Responsive Design (Bootstrap3)
-[?]Styles must follow one of the style guides linked below.
-[x]Use of Charts and Graphs (Suggest C3.js, or HighCharts highcharts.com/))
-[x]Featured Tabular Display of a subset of data (Top 10, Specific tag, or date)
-[x]Tabular Display of ALL data (suggest datatables.net/))
-[]Use of strong UI elements, (tabs, accordion, sliders, overlays, etc.)
-[x]Use of XML Data from data.gov
- -->
-
 <body>
 
   <div class="container">
@@ -46,7 +36,7 @@
 
   <div class="row">
     <div class="col-md-12 col-xs-12">
-      <button class="accordion">Purpose (click to expand)</button>
+      <button class="accordion">Purpose</button>
         <div class="panel">
           <p>The statistic of <a href="http://www.iwpr.org/initiatives/pay-equity-and-discrimination">
             women earning $0.78 for every dollar that men earn</a> is
@@ -62,8 +52,9 @@
   </div>
 
   <div class="row">
-    <div class="col-md-12 col-xs-12">
+    <div class="col-md-8 col-xs-12">
       <h3 class="graph-head">Male Average Hourly Rate vs. Female Average Hourly Rate</h3>
+      <h4 id="graph-data">**Each data point corresponds to a different job title**</h4>
     </div>
     <div class="col-md-8 col-xs-12">
       <div id="chart1"></div>
@@ -108,7 +99,19 @@
   <br />
 
   <div class="row">
+    <div class="col-md-12 col-xs-12">
+      <button class="accordion">Other factors: Longevity</button>
+        <div class="panel">
+          <p>As we can see, men in Seattle on average stay in the same job classification
+          for less time when compared to women. What's the significance? According to research done
+        on this topic, men are <a href="http://www.npr.org/2011/02/14/133599768/ask-for-a-raise-most-women-hesitate">four times more likely</a>
+        than women to ask for a raise or a promotion. On a grand scale, this can tip the income level significantly, as pay boosts
+      contribute to a higher annual raise and also may carry over to a new employer.</p>
+        </div>
+    </div>
+  </div>
 
+  <div class="row">
     <div class="col-md-6 col-xs-12">
       <div id="longevity1">
         <h3>
@@ -126,17 +129,18 @@
         <div id="chart3"></div>
       </div>
     </div>
-
   </div>
 
   <br />
 
   <div class="row">
     <div class="col-md-12 col-xs-12">
-      <button class="accordion">Other factors: Longevity (click to expand)</button>
+      <button class="accordion">Conclusion</button>
         <div class="panel">
-          <p>As we can see, men in Seattle on average stay in the same job classification
-          for less time when compared to women. </p>
+          <p>In the small sample of data from Seattle, we can see that there are other
+          factors that lead to differences in pay between Men and Women. It's important
+        to study what can cause this difference, as inequal net outcome does not necessarily mean
+      that it is entirely due to a sexist system.</p>
         </div>
     </div>
   </div>

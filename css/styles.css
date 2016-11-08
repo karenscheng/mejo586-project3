@@ -35,8 +35,14 @@ h2{
   color: #40bce0;
 }
 
+#graph-data{
+  color: #777;
+  text-align: center;
+}
+
 .graph-head{
   color: white;
+  text-align: center;
   text-shadow: 2px 2px #BBB;
   font-family: 'Lato', sans-serif;
 }
@@ -66,12 +72,14 @@ h1{
 }
 
 button.accordion {
-    background-color: white;
-    color: #40bce0;
+    font-family: 'Lato', sans-serif;
+    background-color: #888;
+    color: white;
     cursor: pointer;
     padding: 18px;
     width: 100%;
     text-align: center;
+    font-size: 20px;
     border: none;
     outline: none;
     transition: 0.4s;
@@ -87,6 +95,7 @@ div.panel {
     padding: 0 18px;
     background-color: white;
     display: none;
+    font-size: 18px;
 }
 
 /* The "show" class is added to the accordion panel when the user clicks on one of the buttons. This will show the panel content */
